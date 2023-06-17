@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nameGe": "მაგიდის ფეხბურთი",
+    "nameEn": "Foosball",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1NSiRmN2KCZLWWZo0rbhZQZ32C1SGo2m9",
+    "location": "B003"
+  },
+  {
+    "id": 2,
+    "nameGe": "მაგიდის ჩოგბურთი",
+    "nameEn": "Ping-Pong",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1RbUrOuSYCLqPJA13ZVJBWSi7FxjF6PPa",
+    "location": "B003, ეზო/yard"
+  },
+  {
+    "id": 3,
+    "nameGe": "რვა-ბურთი",
+    "nameEn": "Eight-ball",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1SGgc_NxaFFdEv3AxRIrMmfcbaQoyx9p8",
+    "location": "B003"
+  },
+  {
+    "id": 4,
+    "nameGe": "შაში (დამკა)",
+    "nameEn": "Checkers",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=18OZgrWD9sjgvQGqA2uvFfwKOqZO0b2_2",
+    "location": "B003"
+  },
+  {
+    "id": 5,
+    "nameGe": "ჭადრაკი",
+    "nameEn": "Chess",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1iod4Z841RSAMXDe9Nwoc49DoeIYxL7DI",
+    "location": "B003"
+  },
+  {
+    "id": 6,
+    "nameGe": "ნარდი",
+    "nameEn": "Backgammon",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=13nDO4YBuVJe9CBA_q19rp32TyAG4ysut",
+    "location": "B003"
+  },
+  {
+    "id": 7,
+    "nameGe": "კალათბურთი",
+    "nameEn": "Basketball",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1eteOdvIiCJA3TQf0vHacjgSqX_VKSBuS",
+    "location": "ეზო/yard"
+  }
+]
