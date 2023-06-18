@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "programNameEn": "Management",
+    "programNameGe": "მენეჯმენტი",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Business",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": null
+  },
+    {
+    "id": 2,
+    "programNameEn": "მარკეტინგი",
+    "programNameGe": "Marketing",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Business",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": null
+  },
+    {
+    "id": 3,
+    "programNameEn": "Finances",
+    "programNameGe": "ფინანსები",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": true,
+    "englishSectorCost": 4500,
+    "School": "School of Business",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": 4500
+  },
+    {
+    "id": 4,
+    "programNameEn": "US Foreign Affairs",
+    "programNameGe": "ამერიკის შეერთებული შტატების საგარეო ურთიერთობები",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Education, Humanities and Social Sciences",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": 4500
+  },
+    {
+    "id": 5,
+    "programNameEn": "International Relations",
+    "programNameGe": "საერთაშორისო ურთიერთობები",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Education, Humanities and Social Sciences",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": null
+  },
+      {
+    "id": 6,
+    "programNameEn": "Education Administration",
+    "programNameGe": "განათლების ადმინისტრირება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Education, Humanities and Social Sciences",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": 4500
+  },
+      {
+    "id": 7,
+    "programNameEn": "International Relations",
+    "programNameGe": "საერთაშორისო ურთიერთობები",
+    "englishSectorAvailable": false,
+    "georgianSectorAvailable": true,
+    "englishSectorCost": null,
+    "School": "School of Education, Humanities and Social Sciences",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": 4500
+  },
+      {
+    "id": 8,
+    "programNameEn": "Computer Science",
+    "programNameGe": "კომპიუტერული მეცნიერება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "School of Computer Science and Architecture",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": null
+  },
+      {
+    "id": 9,
+    "programNameEn": "Comparative Commercial Law",
+    "programNameGe": "შედარებითი კომერციული სამართალი",
+    "englishSectorAvailable": false,
+    "georgianSectorAvailable": true,
+    "englishSectorCost": null,
+    "School": "School of Law and State Governance",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": 4500
+  }
+]
