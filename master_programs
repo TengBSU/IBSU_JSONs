@@ -12,8 +12,8 @@
   },
     {
     "id": 2,
-    "programNameEn": "მარკეტინგი",
-    "programNameGe": "Marketing",
+    "programNameEn": "Marketing",
+    "programNameGe": "მარკეტინგი",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
