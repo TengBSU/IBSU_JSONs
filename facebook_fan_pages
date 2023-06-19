@@ -1,0 +1,14 @@
+[
+    {
+    "id": 1, 
+    "name" : "IBSU Confessions",
+    "link": "https://www.facebook.com/IBSUConfessions",
+    "pictureURL" : "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/329367030_1302936880281866_8821860315529720548_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=32Eh3ZEcXHAAX_2AooI&_nc_ht=scontent.ftbs10-1.fna&oh=00_AfBdWF0y14_rSAWZc8F6dOvZSrXXNGg_fhaIQLa22BFw-g&oe=649454A5"
+},
+    {
+    "id": 2, 
+    "name" : "IBSU Crush",
+    "link": "https://www.facebook.com/IBSUCRUSHebi",
+    "pictureURL" : "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/327971254_1215629205712527_4805916982736609610_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Hhj0fWYZYuUAX-mqLQk&_nc_ht=scontent.ftbs10-1.fna&oh=00_AfBSQBJJSqJDjpp2AnAaJXfF-fntwkWY-SLycdC3-XqSuQ&oe=64953580"
+}
+]
