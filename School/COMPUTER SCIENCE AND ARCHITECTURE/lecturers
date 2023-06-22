@@ -1,0 +1,31 @@
+[{
+    "id" : 1,
+    "nameEn": "Irakli Rodonaia",
+    "nameGe": "ირაკლი როდონაია",
+    "statusEn": "Affil. Prof.",
+    "statusGe": "აფილ. პროფ",
+    "isAcademic": true, 
+    "isInvited": false, 
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/Irakli_Rodonaia-150x150.png"
+  },
+  {
+    "id" : 2,
+    "nameEn": "Michal Lukasz Malafiejski",
+    "nameGe": "მიხაილ ლუკაშ მალაფეისკი",
+    "statusEn": Affil. Prof.",
+    "statusGe": "აფილ. პროფ",
+    "isAcademic": true, 
+    "isInvited": false, 
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/Micha%C5%82-Ma%C5%82afiejski.png"
+  },
+  {
+    "id" : 3,
+    "nameEn": "Ketevan Nanoblishvili",
+    "nameGe": "ქეთევან ნანობლიშვილი",
+    "statusEn": Affil. Prof.",
+    "statusGe": "აფილ. პროფ",
+    "isAcademic": true, 
+    "isInvited": false, 
+    "pictureURL": null
+  }
+  ]
