@@ -1,5 +1,6 @@
 [
     {
+    "id" : 1,
     "nameEn": "Tea Todua",
     "nameGe": "თეა თოდუა",
     "positionEn": "Dean, Doctor",
@@ -7,6 +8,7 @@
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თეა-თოდუა.webp"
   },
   {
+    "id" : 2,
     "nameEn": "Giorgi Merabishvili",
     "nameGe": "გიორგი მერაბიშვილი",
     "positionEn": "MA, Vice-Dean",
@@ -14,6 +16,7 @@
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/11/%E1%83%92%E1%83%98%E1%83%9D-1-1.jpg"
   },
   {
+    "id" : 3,
     "nameEn": "Giorgi Tsanatskenishvili",
     "nameGe": "გიორგი წანაწყენიშვილი",
     "positionEn": " Doctor, Head of the Bachelor of Architecture program",
@@ -21,6 +24,7 @@
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/giorgi-420.jpg"
   },
   {
+    "id" : 4,
     "nameEn": "Nikoloz Abzianidze",
     "nameGe": "ნიკოლოზ აბზიანიძე",
     "positionEn": "Doctor, Head of Bachelor of Computer Science program",
