@@ -19,16 +19,16 @@
     "id" : 3,
     "nameEn": "Giorgi Tsanatskenishvili",
     "nameGe": "გიორგი წანაწყენიშვილი",
-    "positionEn": " Doctor \nHead of the Bachelor of Architecture program",
-    "positionGe": "აფილ. ასოც. პროფ. დოქტ \nარქიტექტურის საბაკალავრო პროგრამის ხელმძღვანელი",
+    "positionEn": " Doctor, Head of the Bachelor of Architecture program",
+    "positionGe": "აფილ. ასოც. პროფ. დოქტ, არქიტექტურის საბაკალავრო პროგრამის ხელმძღვანელი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/giorgi-420.jpg"
   },
   {
     "id" : 4,
     "nameEn": "Nikoloz Abzianidze",
     "nameGe": "ნიკოლოზ აბზიანიძე",
-    "positionEn": "Doctor \nHead of Bachelor of Computer Science program",
-    "positionGe": "დოქტ. \nკომპ. მეცნიერების საბაკალავრო პროგრამების ხელმძღვანელი",
+    "positionEn": "Doctor, Head of Bachelor of Computer Science program",
+    "positionGe": "დოქტ, კომპ. მეცნიერების საბაკალავრო პროგრამების ხელმძღვანელი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2021/10/%E1%83%90%E1%83%91%E1%83%96%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94-300x300.jpg"
   }
   
