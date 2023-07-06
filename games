@@ -10,7 +10,7 @@
     "id": 2,
     "nameGe": "მაგიდის ჩოგბურთი",
     "nameEn": "Ping-Pong",
-    "pictureURL": "https://drive.google.com/uc?export=view&id=1RbUrOuSYCLqPJA13ZVJBWSi7FxjF6PPa",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1K_lOhNHbnmbbITd6ZkpMXsypcnvmK_YQ",
     "location": "B-003, ეზო/yard"
   },
   {
@@ -47,5 +47,19 @@
     "nameEn": "Basketball",
     "pictureURL": "https://drive.google.com/uc?export=view&id=1eteOdvIiCJA3TQf0vHacjgSqX_VKSBuS",
     "location": "ეზო/yard"
-  }
+  },
+  {
+    "id": 8,
+    "nameGe": "ფრენბურთი",
+    "nameEn": "Volleyball",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1340mSAGlEEnqfHidBVDZQRVPXTaWTWL2",
+    "location": "ეზო/yard"
+  },
+  {
+    "id": 7,
+    "nameGe": "ფეხბურთი",
+    "nameEn": "Football",
+    "pictureURL": "https://drive.google.com/uc?export=view&id=1hQF3JJAxdM1Ejza32D2Ez5oMnBIbM0mX",
+    "location": "ეზო/yard"
+  },
 ]
