@@ -236,5 +236,22 @@
     "vicePresidentEmail": "21100167@ibsu.edu.ge",
     "fbLink" : "https://www.facebook.com/profile.php?id=100085873002928",
     "pictureURL": "https://drive.google.com/uc?export=view&id=1uwzCYv14lUdPL4mnO64HUdQ1C9vCS7iJ"
+  },
+  {
+    "id": 15,
+    "clubNameEn": "Korean Language and Culture Club",
+    "clubNameGe": "ფსიქოლოგიის კლუბი",
+    "descriptionEn": "Psychology Club aims to help students improve their understanding of themselves and the people around them, as well as become effective communicators by having insight into how the human brain works and why people behave the way they behave.",
+    "descriptionGe": "ფსიქოლოგიის კლუბის მიზანია დაეხმაროს სტუდენტებს გააუმჯობესონ საკუთარი თავის და გარშემომყოფების გაგება, ასევე გახდნენ ეფექტური კომუნიკატორები იმის გაგებით, თუ როგორ მუშაობს ადამიანის ტვინი და რატომ იქცევიან ადამიანები ისე, როგორც იქცევიან.",
+    "presidentNameEn": "Natia Jaoshvili",
+    "presidentNameGe": "ნათია ჯაოშვილი",
+    "presidentNumber": "598635507",
+    "presidentEmail": "21300106@ibsu.edu.ge",
+    "vicePresidentNameEn": "Lika Devadze",
+    "vicePresidentNameGe": "ლიკა დევაძე",
+    "vicePresidentNumber": "557995008",
+    "vicePresidentEmail": "20300295@ibsu.edu.ge",
+    "fbLink" : "https://www.facebook.com/psychologyclubibsu",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/09/133-Psychology-Club_Logo-1.png"
   }
 ]
