@@ -253,5 +253,22 @@
     "vicePresidentEmail": "20300295@ibsu.edu.ge",
     "fbLink" : "https://www.facebook.com/psychologyclubibsu",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/09/133-Psychology-Club_Logo-1.png"
+  },
+  {
+    "id": 16,
+    "clubNameEn": "Veritas Club",
+    "clubNameGe": "რელიგიისა და თეოლოგიის კლუბი",
+    "descriptionEn": "The purpose and mission of the club is to spread knowledge about religion and theology so that interested persons can get the necessary information to form a correct worldview, view, attitude and representation towards other religions, religious currents and dogmas.",
+    "descriptionGe": "კლუბის მიზანი და მისიაა გაავრცელოს ცოდნა რელიგიისა და თეოლოგიის შესახებ, რათა დაინტერესებულმა პირებმა მიიღონ საჭირო ინფორმაცია იმისთვის, რომ ჩამოიყალიბონ სწორი მსოფმხედველობა, შეხედულება, დამოკიდებულება და წარმოდგენა სხვა და სხვა რელიგიების, რელიგიური მიმდინარეობისა და დოგმების მიმართ.",
+    "presidentNameEn": "Avtandil Lomtatidze",
+    "presidentNameGe": "ავთანდილ ლომთათიძე",
+    "presidentNumber": "599491722",
+    "presidentEmail": "22300289@ibsu.edu.ge",
+    "vicePresidentNameEn": "Nana Chiaberashvili",
+    "vicePresidentNameGe": "ნანა ჭიაბერაშვილი",
+    "vicePresidentNumber": "595045090",
+    "vicePresidentEmail": "22300204@ibsu.edu.ge",
+    "fbLink" : null,
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/09/173-WhatsApp-Image-2022-10-03-at-13.10.39.jpeg"
   }
 ]
