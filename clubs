@@ -270,5 +270,22 @@
     "vicePresidentEmail": "22300204@ibsu.edu.ge",
     "fbLink" : null,
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/09/173-WhatsApp-Image-2022-10-03-at-13.10.39.jpeg"
+  },
+ {
+    "id": 17,
+    "clubNameEn": "INNOWAVE CLUB",
+    "clubNameGe": "ინოვაციებისა და მეწარმეობის კლუბი",
+    "descriptionEn": "The purpose and mission of the club is to spread knowledge about religion and theology so that interested persons can get the necessary information to form a correct worldview, view, attitude and representation towards other religions, religious currents and dogmas.",
+    "descriptionGe": "კლუბის მისია ინოვაციებისა და მეწარმეობის კლუბი „Innowave” მიზნად ისახავს უკვე არსებული ინოვაციების გაფართოებასა და მათი განვითარების ხელშეწყობას . ეს იქნება ერთგვარი პლატფორმა , რომლის საშუალებითაც სტარტაპერები შეძლებენ თავიანთი პროდუქტის საზოგადოებისათვის გაცნობას . შედეგად კი მოხდება სტარტაპების პოპულარიზაცია და მათი უკვე არსებული ინოვაციური იდეების შემდგომი განვითარების ხელშეწყობა . კლუბის მიზნები: • სტუდენტებში ინოვაციური და სამეწარმეო აზროვნების განვითარება. • სტუდენტებში მეწარმეობისთვის საჭირო ფუნდამენტური უნარების განვითარება. • მივცეთ სტუდენტებს საშუალება გამოიყენონ თავიანთი უნარები და ინოვაციური იდეები გარდაქმნან რეალურ პროდუქტებად. • კრეატიულობისა და ტექნიკური ვორქშოფების საშუალებით სტუდენტებისთვის ინოვაციურ აქტივობებში ჩართვის შესაძლებლობით უზრუნველყოფა.",
+    "presidentNameEn": "Nini Natishvili",
+    "presidentNameGe": "ნინი ნათიშვილი",
+    "presidentNumber": "571131190",
+    "presidentEmail": "21100416@ibsu.edu.ge",
+    "vicePresidentNameEn": "Nino Burjanadze",
+    "vicePresidentNameGe": "ნინო ბურჯანაძე",
+    "vicePresidentNumber": "599854754",
+    "vicePresidentEmail": "21100410@ibsu.edu.ge",
+    "fbLink" : null,
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/09/154-Innowavelogo.jpg"
   }
 ]
