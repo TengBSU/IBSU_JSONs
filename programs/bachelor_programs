@@ -83,7 +83,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4440,
-    "School": "School of Computer Science and Architecture",
+    "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4440
   },
@@ -94,7 +94,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 5940,
-    "School": "School of Computer Science and Architecture",
+    "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": null
   },
