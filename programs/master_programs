@@ -89,6 +89,17 @@
   },
       {
     "id": 9,
+    "programNameEn": "Management and Computer Science",
+    "programNameGe": "მენეჯმენტი და კომპიუტერული მეცნიერება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 6500,
+    "School": "COMPUTER SCIENCE AND ARCHITECTURE",
+    "CostForNonGeorgians": 9900,
+    "georgianSectorCost": null
+  },
+      {
+    "id": 10,
     "programNameEn": "Comparative Commercial Law",
     "programNameGe": "შედარებითი კომერციული სამართალი",
     "englishSectorAvailable": false,
