@@ -6,7 +6,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": null
   },
@@ -17,7 +17,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
-    "School": "School of Business",
+    "School": "BUSINESSs",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": null
   },
@@ -28,7 +28,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4500,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4500
   },
