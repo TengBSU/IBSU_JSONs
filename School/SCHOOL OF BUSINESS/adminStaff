@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Ilia Botsvadze",
+    "nameGe": "ილია ბოცვაძე",
+    "positionEn": "Dean; Head of Business Administration, Finance and Accounting and Audit BA Programs, Affil. Assoc. Prof.",
+    "positionGe": "დეკანი; ბიზნესის ადმინისტრირების, ფინანსების, საბუღალტრო აღრიცხვისა და აუდიტის საბაკალავრო პროგრამების ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ილია-ბოლქვაძე.webp"
+  },
+  {
+    "id": 2,
+    "nameEn": "Iasha Murvanidze",
+    "nameGe": "იაშა მურვანიძე",
+    "positionEn": "Vice-Dean; Co-head of Finance MA Program, Affil. Assoc. Prof.",
+    "positionGe": "ვიცე-დეკანი, აფილ. ასოც. პროფ; ფინანსების ქართულენოვანი სამაგისტრო პროგრამის ხელმძღვანელი",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/IMG_0516111-1.jpg"
+  },
+  {
+    "id": 3,
+    "nameEn": "Eka Devidze",
+    "nameGe": "ეკა დევიძე",
+    "positionEn": "Head of Tourism BA Program, Affil. Prof.",
+    "positionGe": "ტურიზმის საბაკალავრო პროგრამის ხელმძღვანელი - აფილ. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/DEVIDZE-420.jpg"
+  },
+  {
+    "id": 4,
+    "nameEn": "Tea Kbiltsetsklashvili",
+    "nameGe": "თეა კბილცეცხლაშვილი",
+    "positionEn": "Vice-Rector for Education and Science; Head of Finance MA Program, Affil. Assoc. Prof.",
+    "positionGe": "პრორექტორი, ფინანსების ქართულენოვანი სამაგისტრო პროგრამის ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თეა-კბილცეცხლაშვილი.webp"
+  },
+  {
+    "id": 5,
+    "nameEn": "Arian Matin",
+    "nameGe": "არიან მატინ",
+    "positionEn": "Head of Marketing MA Program, Affil. Assoc. Prof.",
+    "positionGe": "მარკეტინგის ინგლისურენოვანი სამაგისტრო პროგრამის ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": null
+  },
+  {
+    "id": 6,
+    "nameEn": "Metin Mercan",
+    "nameGe": "მეთინ მერჯან",
+    "positionEn": "Head of Finance MA and Business Administration Doctoral Programs, Affil. Assoc. Prof.",
+    "positionGe": "აფილ. ასოც. პროფ; ფინანსების ინგლისურენოვანი სამაგისტრო და ბიზნესის ადმინისტრირების სადოქტორო პროგრამების ხელმძღვანელი",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/metin-420.jpg"
+  },
+  {
+    "id": 7,
+    "nameEn": "Maka Bugulashvili",
+    "nameGe": "მაკა ბუღულაშვილი",
+    "positionEn": "Head of Managment BA and MA Programs, Affil. Assoc. Prof.",
+    "positionGe": "მენეჯმენტის საბაკალავრო და სამაგისტრო პროგრამების ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/maka-bughulashvili-420-300x300.jpg"
+  },
+  {
+    "id": 8,
+    "nameEn": "Azer Dilanchiev",
+    "nameGe": "აზერ დილანჩიევ",
+    "positionEn": "Head of Economics BA Programs, Affil. Assoc. Prof.",
+    "positionGe": "ეკონომიკის საბაკალავრო პროგრამების ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/azzer-420-300x300.jpg"
+  },
+  {
+    "id": 9,
+    "nameEn": "Nia Todua",
+    "nameGe": "ნია თოდუა",
+    "positionEn": "Co-Head of Marketing BA Programs, MA",
+    "positionGe": "მარკეტინგის საბაკალავრო პროგრამების თანახელმძღვანელი, მაგისტრი",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2021/10/IMG_2648_11-300x300.jpg"
+  },
+  {
+    "id": 10,
+    "nameEn": "Kristina Lazaridi",
+    "nameGe": "კრისტინა ლაზარიდი",
+    "positionEn": "Manager for Administrative Affairs, MA",
+    "positionGe": "ადმინისტრაციულ საქმეთა მენეჯერი, მაგისტრი",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/ქრისტინა-ლაზარიდი.webp"
+  }
+]
