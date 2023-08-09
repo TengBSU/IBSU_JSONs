@@ -6,7 +6,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4200
   },
@@ -17,7 +17,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4200
   },
@@ -28,7 +28,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4200
   },
@@ -39,7 +39,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4200
   },
@@ -50,7 +50,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 2940,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 2940
   },
@@ -61,7 +61,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4200,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": null
   },
@@ -72,7 +72,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 2460,
-    "School": "School of Business",
+    "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 2460
   },
