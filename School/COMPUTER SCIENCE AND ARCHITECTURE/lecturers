@@ -27,5 +27,325 @@
     "isAcademic": true, 
     "isInvited": false, 
     "pictureURL": null
-  }
+  },
+    {
+        "id": 4,
+        "nameEn": "Anri Morchiladze",
+        "nameGe": "ანრი მორჩილაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+ {
+        "id": 5,
+        "nameEn": "Davit Datuashvili",
+        "nameGe": "დავით დათუაშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/datuashvili-420.jpg"
+    },
+    {
+        "id": 6,
+        "nameEn": "Diana Mchedlishvili",
+        "nameGe": "დიანა მჭედლიშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/diana.png"
+    },
+    {
+        "id": 7,
+        "nameEn": "Giorgi Mandaria",
+        "nameGe": "გიორგი მანდარია",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/Giorgi-Mandaria.png"
+    },
+    {
+        "id": 8,
+        "nameEn": "Marina Razmadze",
+        "nameGe": "მარინა რაზმაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 9,
+        "nameEn": "Khatuna Elbakidze",
+        "nameGe": "ხათუნა ელბაქიძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 10,
+        "nameEn": "Vakhtang Rodonaia",
+        "nameGe": "ვახტანგ როდონაია",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 11,
+        "nameEn": "Artioma Merabian",
+        "nameGe": "არტიომა მერაბიან",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 12,
+        "nameEn": "Mariam Dedabrishvili",
+        "nameGe": "მარიამ დედაბრიშვილი",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/Mariam-Dedabrishvili-150x150.png"
+    },
+    {
+        "id": 13,
+        "nameEn": "Mikheil Rukhaia",
+        "nameGe": "მიხეილ რუხაია",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/Mikheil-Rukhaia-150x150.png"
+    },
+    {
+        "id": 14,
+        "nameEn": "Besik Dundua",
+        "nameGe": "ბესიკ დუნდუა",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/besiki-420-150x150.jpg"
+    },
+    {
+        "id": 15,
+        "nameEn": "Mzia Kiknadze",
+        "nameGe": "მზია კიკნაძე",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ.",
+        "isAcademic": true,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/Mzia-Kiknadze-150x150.png"
+    },
+    {
+        "id": 16,
+        "nameEn": "Roman Samkharadze",
+        "nameGe": "რომან სამხარაძე",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 17,
+        "nameEn": "Giorgi Kakashvili",
+        "nameGe": "გიორგი კაკაშვილი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 18,
+        "nameEn": "Giorgi Dzneladze",
+        "nameGe": "გიორგი ძნელაძე",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 19,
+        "nameEn": "Giorgi Ghlonti",
+        "nameGe": "გიორგი ღლონტი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/glonti-420-150x150.jpg"
+    },
+    {
+        "id": 20,
+        "nameEn": "Giorgi Tsanatskhenishvili",
+        "nameGe": "გიორგი წანაწყენიშვილი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/giorgi-420.jpg"
+    },
+    {
+        "id": 21,
+        "nameEn": "Davit Bostanashvili",
+        "nameGe": "დავით ბოსტანაშვილი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 22,
+        "nameEn": "Daria Kieraszewicz",
+        "nameGe": "დარია კიერასშევიჩი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 23,
+        "nameEn": "Emeliane Goglidze",
+        "nameGe": "ემელიანე გოგლიძე",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 24,
+        "nameEn": "Lela Gachechiladze",
+        "nameGe": "ლელა გაჩეჩილაძე",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 25,
+        "nameEn": "Teimuraz Sturua",
+        "nameGe": "თეიმურაზ სტურუა",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 26,
+        "nameEn": "Nikoloz Abzianidze",
+        "nameGe": "ნიკოლოზ აბზიანიძე",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2021/10/%E1%83%90%E1%83%91%E1%83%96%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94-300x300.jpg"
+    },
+    {
+        "id": 27,
+        "nameEn": "Nugzar Amilakhvari",
+        "nameGe": "ნუგზარ ამილახვარი",
+        "statusEn": "Dr.",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 28,
+        "nameEn": "Giorgi Merabishvili",
+        "nameGe": "გიორგი მერაბიშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/11/%E1%83%92%E1%83%98%E1%83%9D-1-1.jpg"
+    },
+    {
+        "id": 29,
+        "nameEn": "Gela Pataraia",
+        "nameGe": "გელა პატარაია",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/Gela-Pataraia-150x150.png"
+    },
+    {
+        "id": 30,
+        "nameEn": "Giorgi Gabunia",
+        "nameGe": "გიორგი გაბუნია",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 31,
+        "nameEn": "Davit Nikolaishvii",
+        "nameGe": "დავით ნიკოლაიშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 32,
+        "nameEn": "Tamar Kuchukhidze",
+        "nameGe": "თამარი კუჭუხიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 33,
+        "nameEn": "Nino Gogosashvili",
+        "nameGe": "ნინო გოგოსაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 34,
+        "nameEn": "Lasha Nozadze",
+        "nameGe": "ლაშა ნოზაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 35,
+        "nameEn": "Hakan Ergun",
+        "nameGe": "ჰაკან ერგუნ",
+        "statusEn": "MA",
+        "statusGe": "მაგისტრი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    }
   ]
