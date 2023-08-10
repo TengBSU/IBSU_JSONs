@@ -39,7 +39,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
-    "School": "School of Education, Humanities and Social Sciences",
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4500
   },
@@ -50,7 +50,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
-    "School": "School of Education, Humanities and Social Sciences",
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": null
   },
@@ -61,7 +61,7 @@
     "englishSectorAvailable": true,
     "georgianSectorAvailable": false,
     "englishSectorCost": 4500,
-    "School": "School of Education, Humanities and Social Sciences",
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4500
   },
@@ -72,7 +72,7 @@
     "englishSectorAvailable": false,
     "georgianSectorAvailable": true,
     "englishSectorCost": null,
-    "School": "School of Education, Humanities and Social Sciences",
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4500
   },
@@ -105,7 +105,7 @@
     "englishSectorAvailable": false,
     "georgianSectorAvailable": true,
     "englishSectorCost": null,
-    "School": "School of Law and State Governance",
+    "School": "LAW AND STATE GOVERNANC",
     "CostForNonGeorgians": 9900,
     "georgianSectorCost": 4500
   }
