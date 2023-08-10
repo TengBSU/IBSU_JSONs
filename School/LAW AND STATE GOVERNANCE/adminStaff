@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Ketevan Kokrashvili",
+    "nameGe": "ქეთევან ქოქრაშვილი",
+    "positionEn": "Dean; Head of Law BA and Comparative Commercial Law MA Programs, Affil. Prof.",
+    "positionGe": "დეკანი; სამართალმცოდნეობის საბაკალავრო და შედარებითი კომერციუალი სამართლის სამაგისტრო პროგრამების ხელმძღვანელი, აფილ. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/ქეთი-ქოქრაშვილი.webp"
+  },
+  {
+    "id": 2,
+    "nameEn": "Nona Zubitashvili",
+    "nameGe": "ნონა ზუბიტაშვილი",
+    "positionEn": "Vice-Dean; Head of Legal Clinic, Affil. Assoc. Prof.",
+    "positionGe": "დეკანის მოადგილე; სამართლის კლინიკის ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/ნონა-ზუბიტაშვილი.webp"
+  },
+  {
+    "id": 3,
+    "nameEn": "Tamar Kakutia",
+    "nameGe": "თამარ კაკუტია",
+    "positionEn": "Head of Public Administration and State Governance, Affil. Assoc. Prof.",
+    "positionGe": "საჯარო ადმინისტრირებისა და სახელმწიფო მმართველობის საბაკალავრო პროგრამის ხელმძღვანელი, აფილ. ასოც. პროფ.",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/კაკუტია.webp"
+  },
+  {
+    "id": 4,
+    "nameEn": "Tamta Tskitishvili",
+    "nameGe": "თამთა ცქიტიშვილი",
+    "positionEn": "MA; Manager for Administrative Issues",
+    "positionGe": "მაგისტრი, ადმინისტრაციულ საქმეთა მენეჯერი",
+    "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/05/%E1%83%97%E1%83%90%E1%83%9B%E1%83%97%E1%83%90-%E1%83%AA%E1%83%A5%E1%83%98%E1%83%A2%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-300x300.jpg"
+  }
+]
