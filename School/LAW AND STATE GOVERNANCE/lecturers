@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "nameEn": "Andrea Borroni",
+        "nameGe": "ანდრეა ბორონი",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 2,
+        "nameEn": "Madi Chantladze",
+        "nameGe": "მადი ჩანტლაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 3,
+        "nameEn": "Nika Asvanua",
+        "nameGe": "ნიკა ასვანუა",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 4,
+        "nameEn": "Nona Zubitashvili",
+        "nameGe": "ნონა ზუბიტაშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 5,
+        "nameEn": "Shavleg Todua",
+        "nameGe": "შავლეგ თოდუა",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 6,
+        "nameEn": "Tamar Avaliani",
+        "nameGe": "თამარ ავალიანი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 7,
+        "nameEn": "Zoia Khasia",
+        "nameGe": "ზოია ხასია",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 8,
+        "nameEn": "Gvantsa Chaduneli",
+        "nameGe": "გვანცა ჩადუნელი",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 9,
+        "nameEn": "Khatia Markozashvili",
+        "nameGe": "ხატია მარკოზაშვილი",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 10,
+        "nameEn": "Tamar Kakutia",
+        "nameGe": "თამარ კაკუტია",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 11,
+        "nameEn": "Vepkhvia Grigalashvili",
+        "nameGe": "ვეფხვია გრიგალაშვილი",
+        "statusEn": "Affil. Assist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 12,
+        "nameEn": "Aleksandre Giorgidze",
+        "nameGe": "ალექსანდრე გიორგიძე",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 13,
+        "nameEn": "Besik Meurmishvili",
+        "nameGe": "ბესიკ მეურმიშვილი",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 14,
+        "nameEn": "Ekaterine Lapachi",
+        "nameGe": "ეკატერინე ლაფაჩი",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 15,
+        "nameEn": "Simon Takashvili",
+        "nameGe": "სიმონ ტაკაშვილი",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 16,
+        "nameEn": "Zurab Jibghashvili",
+        "nameGe": "ზურაბ ჯიბღაშვილი",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 17,
+        "nameEn": "Davit Geperidze",
+        "nameGe": "დავით გეფერიძე",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 18,
+        "nameEn": "Zurab Tchetchelashvili",
+        "nameGe": "ზურაბ ჭეჭელაშვილი",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 19,
+        "nameEn": "Zviad Rogava",
+        "nameGe": "ზვიად როგავა",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 20,
+        "nameEn": "Giorgi Asatiani",
+        "nameGe": "გიორგი ასათიანი",
+        "statusEn": "Affil. Assist.",
+        "statusGe": "აფილ. ასოც.",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 21,
+        "nameEn": "Eka Kavelidze",
+        "nameGe": "ეკა კაველიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 22,
+        "nameEn": "Ilona Todua",
+        "nameGe": "ილონა თოდუა",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 23,
+        "nameEn": "Ekaterine Baghishvili",
+        "nameGe": "ეკატერინე ბაღიშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 24,
+        "nameEn": "Malkhaz Chakhnashvili",
+        "nameGe": "მალხაზ ჩახნაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 25,
+        "nameEn": "Shorena Kakhidze",
+        "nameGe": "შორენა კახიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 26,
+        "nameEn": "Giorgi Loria",
+        "nameGe": "გიორგი ლორია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 27,
+        "nameEn": "Madona Ghibradze",
+        "nameGe": "მადონა ღიბრაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 28,
+        "nameEn": "Aleks Chikvaidze",
+        "nameGe": "ალექს ჩიკვაიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 29,
+        "nameEn": "Tamar Shudra",
+        "nameGe": "თამარ შუდრა",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 30,
+        "nameEn": "Giorgi Noniashvili",
+        "nameGe": "გიორგი ნონიაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 31,
+        "nameEn": "Davit Karashvili",
+        "nameGe": "დავით ყარაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 32,
+        "nameEn": "Elguja Makalatia",
+        "nameGe": "ელგუჯა მაკალატია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 33,
+        "nameEn": "Ekaterine Gasitashvili",
+        "nameGe": "ეკატერინე გასიტაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 34,
+        "nameEn": "Vakhtang Kvizhinadze",
+        "nameGe": "ვახტანგ კვიჟინაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 35,
+        "nameEn": "Aleko Nachkebia",
+        "nameGe": "ალეკო ნაჭყებია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 36,
+        "nameEn": "Natia Songhulashvili",
+        "nameGe": "ნათია სონღულაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 37,
+        "nameEn": "Tamar Okropiridze",
+        "nameGe": "თამარ ოქროპირიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 38,
+        "nameEn": "Temur Gugushvili",
+        "nameGe": "თემურ გუგუშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+      {
+        "id": 39,
+        "nameEn": "ნანა ყუფუნია",
+        "nameGe": "Nana Kupunia",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+      {
+        "id": 40,
+        "nameEn": "ქეთევან ციხისელი",
+        "nameGe": "Ketevan Tsikhiseli",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    }
+]
