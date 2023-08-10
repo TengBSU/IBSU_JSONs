@@ -262,7 +262,7 @@
  {
         "id": 27,
         "nameEn": "Muzafer Kir",
-        "nameGe": "მუზაფერ ქირ,
+        "nameGe": "მუზაფერ ქირ",
         "statusEn": "Affil. Prof.",
         "statusGe": "აფილ. პროფ",
         "isAcademic": true,
@@ -287,7 +287,7 @@
         "statusGe": "აფილ. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2017/04/Nino-Kereselidze-150x150.png""
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2017/04/Nino-Kereselidze-150x150.png"
     },
  {
         "id": 30,
@@ -917,7 +917,7 @@
         "statusGe": "მაგისტრი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მარიამ-ძაგოევი.webp""
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მარიამ-ძაგოევი.webp"
     },
     {
         "id": 93,
