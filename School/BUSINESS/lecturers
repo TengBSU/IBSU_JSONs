@@ -1,0 +1,853 @@
+[
+    {
+        "id": 1,
+        "nameEn": "Eka Devidze",
+        "nameGe": "ეკა დევიძე",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 2,
+        "nameEn": "Ilias Chiloglu",
+        "nameGe": "ილიას ჭილოგლუ",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 3,
+        "nameEn": "Ketevan Lapachi",
+        "nameGe": "ქეთევან ლაფაჩი",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+      {
+        "id": 4,
+        "nameEn": "Nikoloz Makharashvili",
+        "nameGe": "ნიკოლოზ მახარაშვილი",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 5,
+        "nameEn": "Roman Gotsiridze",
+        "nameGe": "რომან გოწირიძე",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 6,
+        "nameEn": "Tatiana Papiashvili",
+        "nameGe": "თათიანა პაპიაშვილი",
+        "statusEn": "Affil. Prof.",
+        "statusGe": "აფილ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 7,
+        "nameEn": "Arian Matin",
+        "nameGe": "არიან მატინ",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 8,
+        "nameEn": "Azer Dilanchiev",
+        "nameGe": "აზერ დილანჩიევი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 9,
+        "nameEn": "Davit Nizharadze",
+        "nameGe": "დავით ნიჟარაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 10,
+        "nameEn": "Iasha Murvanidze",
+        "nameGe": "იაშა მურვანიძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 11,
+        "nameEn": "Ilia Botsvadze",
+        "nameGe": "ილია ბოწვაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 12,
+        "nameEn": "Irakli Khvtisiashvili",
+        "nameGe": "ირაკლი ხვტისიაშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 13,
+        "nameEn": "Kakhaber Djakeli",
+        "nameGe": "კახაბერ ჯაქელი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 14,
+        "nameEn": "Maka Bughulashvili",
+        "nameGe": "მაკა ბუღულაშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 15,
+        "nameEn": "Metin Mercan",
+        "nameGe": "მეტინ მერჯანი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 16,
+        "nameEn": "Nino Jojua",
+        "nameGe": "ნინო ჯოჯუა",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+ {
+        "id": 17,
+        "nameEn": "Ramaz Gerliani",
+        "nameGe": "რამაზ გერლიანი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 18,
+        "nameEn": "Ramazan Akbas",
+        "nameGe": "რამაზან აყბაშ",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 19,
+        "nameEn": "Tea Kbiltsetskhlashvili",
+        "nameGe": "თეა კბილწეცხლაშვილი",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 20,
+        "nameEn": "Teona Maisuradze",
+        "nameGe": "თეონა მაისურაძე",
+        "statusEn": "Affil. Assoc. Prof.",
+        "statusGe": "აფილ. ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 21,
+        "nameEn": "Lali Mikeladze",
+        "nameGe": "ლალი მიქელაძე",
+        "statusEn": "Assoc. Prof.",
+        "statusGe": "ასოც. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 22,
+        "nameEn": "Sadneep Guleria",
+        "nameGe": "სადნეეპ გულერია",
+        "statusEn": "Affil. Asist. Prof.",
+        "statusGe": "აფილ. ასისტ. პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 23,
+        "nameEn": "Nino Partsvania",
+        "nameGe": "ნინო ფარწვანია",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 24,
+        "nameEn": "Tornike Khoshtaria",
+        "nameGe": "თორნიკე ხოშტარია",
+        "statusEn": "Prof.",
+        "statusGe": "პროფ",
+        "isAcademic": true,
+        "isInvited": false,
+        "pictureURL": null
+    },
+    {
+        "id": 25,
+        "nameEn": "Avtandil Gagnidze",
+        "nameGe": "ავთანდილ გაგნიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 26,
+        "nameEn": "Avto Gachechiladze",
+        "nameGe": "ავთო გაჩეჩილაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 27,
+        "nameEn": "Giorgi Bakradze",
+        "nameGe": "გიორგი ბაქრაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 28,
+        "nameEn": "Davit Bragvadze",
+        "nameGe": "დავით ბრაგვაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 29,
+        "nameEn": "Davit Razmadze",
+        "nameGe": "დავით რაზმაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 30,
+        "nameEn": "Diana Kvaratskhelia",
+        "nameGe": "დიანა კვარაცხელია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 31,
+        "nameEn": "Eliso Chokhonelidze",
+        "nameGe": "ელისო ჩოხონელიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 32,
+        "nameEn": "Emzar Khmaladze",
+        "nameGe": "ემზარ ხმალაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 33,
+        "nameEn": "Izolda Khokhashvili",
+        "nameGe": "იზოლდა ხოხაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 34,
+        "nameEn": "Ketevan Goderdzishvili",
+        "nameGe": "ქეთევან გოდერძიშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 35,
+        "nameEn": "Lasha Kavtaradze",
+        "nameGe": "ლაშა კავთარაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 36,
+        "nameEn": "Lia Todua",
+        "nameGe": "ლია თოდუა",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 37,
+        "nameEn": "Malkhaz Ashordia",
+        "nameGe": "მალხაზ აშორდია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 38,
+        "nameEn": "Mariam Merkviladze",
+        "nameGe": "მარიამ მერქვილაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 39,
+        "nameEn": "Mikheil Gvatua",
+        "nameGe": "მიხეილ გვათუა",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 40,
+        "nameEn": "Nino Samchkuashvili",
+        "nameGe": "ნინო სამჩკუაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 41,
+        "nameEn": "Quji Bichia",
+        "nameGe": "ქუჯი ბიჭია",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 42,
+        "nameEn": "Revaz Kharazi",
+        "nameGe": "რევაზ ხარაზი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 43,
+        "nameEn": "Roman Samkharadze",
+        "nameGe": "რომან სამხარაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 44,
+        "nameEn": "Salavat Sayfullin",
+        "nameGe": "სალავატ საიფულლინი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 45,
+        "nameEn": "Sophiko Dzneladze",
+        "nameGe": "სოფიკო ძნელაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 46,
+        "nameEn": "Teimuraz Bezhanidze",
+        "nameGe": "თეიმურაზ ბეჟანიძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 47,
+        "nameEn": "Teimuraz Surguladze",
+        "nameGe": "თეიმურაზ სურგულაძე",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 48,
+        "nameEn": "Vakhtang Chalapeikrishvili",
+        "nameGe": "ვახტანგ ჩალაფეიკრიშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 49,
+        "nameEn": "Zaur Mchedlishvili",
+        "nameGe": "ზაურ მჭედლიშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 50,
+        "nameEn": "Zaza Koiava",
+        "nameGe": "ზაზა კოიავა",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 51,
+        "nameEn": "Zurab Lukashvili",
+        "nameGe": "ზურაბ ლუკაშვილი",
+        "statusEn": "Doctor",
+        "statusGe": "დოქტორი",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 52,
+        "nameEn": "Aleksandre Davlianidze",
+        "nameGe": "ალექსანდრე დავლიანიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 53,
+        "nameEn": "Ana Khinchiashvili",
+        "nameGe": "ანა ხინჩიაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 54,
+        "nameEn": "Baia Izoria",
+        "nameGe": "ბაია იზორია",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 55,
+        "nameEn": "Davit Kbilashvili",
+        "nameGe": "დავით ქბილაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 56,
+        "nameEn": "Ekaterine Papiashvili",
+        "nameGe": "ეკატერინე ფაფიაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 57,
+        "nameEn": "Eter Modebadze",
+        "nameGe": "ეთერ მოდებაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 58,
+        "nameEn": "Giorgi Robakidze",
+        "nameGe": "გიორგი რობაყიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 59,
+        "nameEn": "Guram Sherozia",
+        "nameGe": "გურამ შეროზია",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 60,
+        "nameEn": "Irakli Chkhartishvili",
+        "nameGe": "ირაკლი ჩხარტიშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 61,
+        "nameEn": "Irma Mikadze",
+        "nameGe": "ირმა მიქაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 62,
+        "nameEn": "Ketevan Chapidze",
+        "nameGe": "ქეთევან ჩაფიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 63,
+        "nameEn": "Ketevan Tabatadze",
+        "nameGe": "ქეთევან ტაბატაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 64,
+        "nameEn": "Lali Gigauri",
+        "nameGe": "ლალი გიგაური",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 65,
+        "nameEn": "Lia Okhanashvili",
+        "nameGe": "ლია ოხანაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 66,
+        "nameEn": "Maka Asatiani",
+        "nameGe": "მაკა ასათიანი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 67,
+        "nameEn": "Malkhaz Gagua",
+        "nameGe": "მალხაზ გაგუა",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 68,
+        "nameEn": "Mariam Grdzelishvili",
+        "nameGe": "მარიამ ღრძელიშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 69,
+        "nameEn": "Mariam Merebashvili",
+        "nameGe": "მარიამ მერებაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 70,
+        "nameEn": "Marine Mchedlidze",
+        "nameGe": "მარინე მჭედლიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 71,
+        "nameEn": "Murad Mikeladze",
+        "nameGe": "მურად მიქელაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 72,
+        "nameEn": "Nia Todua",
+        "nameGe": "ნია თოდუა",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 73,
+        "nameEn": "Nino Jikia",
+        "nameGe": "ნინო ჯიქია",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 74,
+        "nameEn": "Nino Shapatava",
+        "nameGe": "ნინო შაფათავა",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 75,
+        "nameEn": "Nodar Sirbiladze",
+        "nameGe": "ნოდარ სირბილაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 76,
+        "nameEn": "Rusudan Beriashvili",
+        "nameGe": "რუსუდან ბერიაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 77,
+        "nameEn": "Shalva Kilasonia",
+        "nameGe": "შალვა კილასონია",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 78,
+        "nameEn": "Sophiko Inasaridze",
+        "nameGe": "სოფიკო ინასარიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 79,
+        "nameEn": "Tea Shavadze",
+        "nameGe": "თეა შავაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 80,
+        "nameEn": "Teona Taboridze",
+        "nameGe": "თეონა თაბორიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 81,
+        "nameEn": "Tinatin Mamuchadze",
+        "nameGe": "თინათინ მამუჩაძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 82,
+        "nameEn": "Tinatin Mosiashvili",
+        "nameGe": "თინათინ მოსიაშვილი",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 83,
+        "nameEn": "Tinatin Murvanidze",
+        "nameGe": "თინათინ მურვანიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 84,
+        "nameEn": "Tsitsino Jangidze",
+        "nameGe": "წიწინო ჯანგიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    },
+    {
+        "id": 85,
+        "nameEn": "Zurab Darakhvelidze",
+        "nameGe": "ზურაბ დარახველიძე",
+        "statusEn": "MA",
+        "statusGe": "მაგ",
+        "isAcademic": false,
+        "isInvited": true,
+        "pictureURL": null
+    }
+
+]
