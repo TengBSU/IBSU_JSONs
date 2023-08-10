@@ -17,7 +17,7 @@
         "statusGe": "აფილ. ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მადი-ჩანტლაძე.webp"
     },
     {
         "id": 3,
@@ -37,7 +37,7 @@
         "statusGe": "აფილ. ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/ნონა-ზუბიტაშვილი.webp"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "statusGe": "აფილ. ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2017/10/shavle-todua-300x300.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "statusGe": "აფილ. ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/Tamar-Avaliani-300x300.jpg"
     },
     {
         "id": 7,
@@ -87,7 +87,7 @@
         "statusGe": "აფილ. ასისტ. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/khatia-markozashvili-420.jpg"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "statusGe": "აფილ. ასისტ. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/კაკუტია.webp"
     },
     {
         "id": 11,
@@ -117,7 +117,7 @@
         "statusGe": "ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/giorgidze-300x300.png"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "statusGe": "ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/28167367_575012356197359_6769911778425445384_n-1-300x300.jpg"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "statusGe": "ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/2-300x300.jpg"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "statusGe": "ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/05/%E1%83%A1%E1%83%98%E1%83%9B%E1%83%9D%E1%83%9C-%E1%83%A2%E1%83%90%E1%83%99%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-300x300.jpg"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "statusGe": "ასოც. პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ზურაბ-ჯიბღაშვილი.webp"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "statusGe": "პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/geperidze-420-300x300.jpg"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "statusGe": "პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/5e1f14facd906-300x300.jpg"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "statusGe": "პროფ",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/05/%E1%83%96%E1%83%95%E1%83%98%E1%83%90%E1%83%93-%E1%83%A0%E1%83%9D%E1%83%92%E1%83%90%E1%83%95%E1%83%90-1-300x300.png"
     },
     {
         "id": 20,
@@ -197,7 +197,7 @@
         "statusGe": "აფილ. ასოც.",
         "isAcademic": true,
         "isInvited": false,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/Giorgi-Asatiani_Easy-Resize.com_-300x300.jpg"
     },
     {
         "id": 21,
@@ -207,7 +207,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/05/%E1%83%94%E1%83%99%E1%83%90-%E1%83%99%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94.jpg"
     },
     {
         "id": 22,
@@ -217,7 +217,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/1563195393-ilona_todua.jpg"
     },
     {
         "id": 23,
@@ -227,7 +227,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/crop-300x300.jpg"
     },
     {
         "id": 24,
@@ -237,7 +237,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/Chaxnashvili-300x300.jpg"
     },
     {
         "id": 25,
@@ -247,7 +247,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/12/Shorena-Kakhidze-300x300.png"
     },
     {
         "id": 26,
@@ -257,7 +257,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/loria-GEorge-300x275-1.jpg"
     },
     {
         "id": 27,
@@ -287,7 +287,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თამარ-შუდრა.webp"
     },
     {
         "id": 30,
@@ -297,7 +297,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/01/Giorgi-NONIASHVILI_Photo-for-IBSU-WEB-PAGE.jpg"
     },
     {
         "id": 31,
@@ -327,7 +327,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ეკატერინე-გასიტაშვილი.webp"
     },
     {
         "id": 34,
@@ -367,7 +367,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2022/06/tamar-okropiridze98.jpg"
     },
     {
         "id": 38,
@@ -377,7 +377,7 @@
         "statusGe": "დოქტორი",
         "isAcademic": false,
         "isInvited": true,
-        "pictureURL": null
+        "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თემურ-გუგუშვილი.webp"
     },
       {
         "id": 39,
