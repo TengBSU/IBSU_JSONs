@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "statementEn": "Administration working hours:",
+    "statementGe": "ადმინისტრაციის სამუშაო საათები:",
+    "hoursEn": "Monday-Friday 09:00-17:00\nBreak: 13:00-14:00",
+    "hoursGe": "ორშაბათი-პარასკევი 09:00-17:00\nშესვენება: 13:00-14:00"
+  },
+  {
+    "id": 2,
+    "statementEn": "Library services can be used:",
+    "statementGe": "ბიბლიოთეკის სერვისებით სარგებლობა შესაძლებელი",
+    "hoursEn": "Monday-Friday 09:00-21:00\nSaturday: 10:00 – 17:00",
+    "hoursGe": "ორშაბათი-პარასკევი 09:00-21:00\nშაბათი: 10:00 – 17:00"
+  }
+]
