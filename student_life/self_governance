@@ -5,8 +5,8 @@
 "NameGe" : "ქეთევან ფანქველაშვილი",
 "governingPositionEn" : "President",
 "governingPositionGe" : "პრეზიდენტი",
-"studyingPositionEn" : "Sophomore student of School of Business, Economics program",
-"studyingPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
+"academicPositionEn" : "Sophomore student of School of Business, Economics program",
+"academicPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/06/IMG_2573111-1536x1064.jpg"
 },
 {
@@ -15,8 +15,8 @@
 "NameGe" : "ანა იმედაშვილი",
 "governingPositionEn" : "Vice-President",
 "governingPositionGe" : "ვიცე-პრეზიდენტი",
-"studyingPositionEn" : "Sophomore student of School of Business, Economics program",
-"studyingPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
+"academicPositionEn" : "Sophomore student of School of Business, Economics program",
+"academicPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5619111.webp"
 },
 {
@@ -25,8 +25,8 @@
 "NameGe" : "ლაშა არაქელოვი",
 "governingPositionEn" : "Delegate of School of Education, Humanities and Social Sciences",
 "governingPositionGe" : "განათლების, ჰუმანიტარულ და სოციალურ მეცნიერებათა სკოლის დელეგატი",
-"studyingPositionEn" : "Junior student of International Relations program",
-"studyingPositionGe" : "საერთაშორისო ურთიერთობების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
+"academicPositionEn" : "Junior student of International Relations program",
+"academicPositionGe" : "საერთაშორისო ურთიერთობების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5612111-864x864.webp"
 },
 {
@@ -35,8 +35,8 @@
 "NameGe" : "ლუკა რაქვიაშვილი",
 "governingPositionEn" : "Delegate of School of Computer Science and Architecture",
 "governingPositionGe" : "კომპიუტერული მეცნიერებისა და არქიტექტურის სკოლის დელეგატი",
-"studyingPositionEn" : "Junior student of Computer Science program",
-"studyingPositionGe" : "კომპიუტერული მეცნიერების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
+"academicPositionEn" : "Junior student of Computer Science program",
+"academicPositionGe" : "კომპიუტერული მეცნიერების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5596111-833x833.webp"
 },
 {
@@ -45,8 +45,8 @@
 "NameGe" : "ვერიკო სირია",
 "governingPositionEn" : "Delegate of School of Law and State Governance",
 "governingPositionGe" : "სამართლისა და სახელმწიფო მმართველობის სკოლის დელეგატი",
-"studyingPositionEn" : "Sophomore student of Law program",
-"studyingPositionGe" : "სამართალმცოდნეობის საბაკალავრო პროგრამის მე-2 კურსის სტუდენტი",
+"academicPositionEn" : "Sophomore student of Law program",
+"academicPositionGe" : "სამართალმცოდნეობის საბაკალავრო პროგრამის მე-2 კურსის სტუდენტი",
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5616111-844x844.webp"
 }
 ]
