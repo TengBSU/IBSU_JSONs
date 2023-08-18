@@ -1,0 +1,162 @@
+[
+{
+"id" : 1,
+"NameEn" : "Saffet Bayraktutan",
+"NameGe" : "საფფეთ ბაირაქთუთან",
+"governingPositionEn" : "Rector",
+"governingPositionGe" : "რექტორი",
+"academicPositionEn" : "PhD.",
+"academicPositionGe" : "დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/saffet-420-newq-1.jpg"
+},
+{
+"id" : 2,
+"NameEn" : "Ekrem Dindarol",
+"NameGe" : "ექრემ დინდაროლი",
+"governingPositionEn" : "Chancellor",
+"governingPositionGe" : "კანცლერი",
+"academicPositionEn" : "PhD.",
+"academicPositionGe" : "დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%94%E1%83%A5%E1%83%A0%E1%83%94%E1%83%9B-%E1%83%93%E1%83%98%E1%83%9C%E1%83%93%E1%83%90%E1%83%A0%E1%83%9D%E1%83%9A.webp"
+},
+{
+"id" : 3,
+"NameEn" : "Tamta Tskhovrebadze",
+"NameGe" : "თამთა ცხოვრებაძე",
+"governingPositionEn" : "Vice Rector for Education",
+"governingPositionGe" : "პრორექტორი განათლების მიმართულებით",
+"academicPositionEn" : "Assoc.Prof.Dr.",
+"academicPositionGe" : "ასოც. პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%97%E1%83%90%E1%83%9B%E1%83%97%E1%83%90-%E1%83%AA%E1%83%AE%E1%83%9D%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%90%E1%83%AB%E1%83%94.webp"
+},
+{
+"id" : 4,
+"NameEn" : "Tea Kbiltsetskhlashvili",
+"NameGe" : "თეა კბილცეცხლაშვილი",
+"governingPositionEn" : "Vice-Rector for Research",
+"governingPositionGe" : "პრორექტორი სამეცნიერო მიმართულებით",
+"academicPositionEn" : "Junior student of Computer Science program",
+"academicPositionGe" : "Prof.Dr.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%97%E1%83%94%E1%83%90-%E1%83%99%E1%83%91%E1%83%98%E1%83%9A%E1%83%AA%E1%83%94%E1%83%AA%E1%83%AE%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98.webp"
+},
+{
+"id" : 5,
+"NameEn" : "Nino Jojua",
+"NameGe" : "ნინო ჯოჯუა",
+"governingPositionEn" : "Vice-Rector for Quality Development",
+"governingPositionGe" : "პრორექტორი ხარისხის განვითარების მიმართულებით",
+"academicPositionEn" : "Assoc.Prof.Dr.",
+"academicPositionGe" : "ასოც. პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/%E1%83%9C%E1%83%98%E1%83%9C%E1%83%9D-%E1%83%AF%E1%83%9D%E1%83%AF%E1%83%A3%E1%83%90.webp"
+},
+  {
+"id" : 6,
+"NameEn" : "Tamar Shioshvili",
+"NameGe" : "თამარ შიოშვილი",
+"governingPositionEn" : "Dean of the School of Education, Humanities and Social Sciences",
+"governingPositionGe" : "განათლების, ჰუმანიტარული და სოციალური მეცნიერებების სკოლის დეკანი",
+"academicPositionEn" : "Prof.Dr.",
+"academicPositionGe" : "პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0-%E1%83%A8%E1%83%98%E1%83%9D%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98.webp"
+},
+{
+"id" : 7,
+"NameEn" : "Ilia Botsvadze",
+"NameGe" : "ილია ბოცვაძე",
+"governingPositionEn" : "Dean of the School of Business",
+"governingPositionGe" : "ბიზნესის სკოლის დეკანი",
+"academicPositionEn" : "Assoc.Prof.Dr.",
+"academicPositionGe" : "ასოც. პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5616111-844x844.webp"
+},
+  {
+"id" : 8,
+"NameEn" : "Ketevan Kokrashvili",
+"NameGe" : "ქეთევან ქოქრაშვილი",
+"governingPositionEn" : "Dean of the School of Law and State Governance",
+"governingPositionGe" : "სამართლისა და სახელმწიფო მმართველობის სკოლის დეკანი",
+"academicPositionEn" : "Dr.",
+"academicPositionGe" : "პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/%E1%83%A5%E1%83%94%E1%83%97%E1%83%98-%E1%83%A5%E1%83%9D%E1%83%A5%E1%83%A0%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98.webp"
+},
+{
+"id" : 9,
+"NameEn" : "Tea Todua",
+"NameGe" : "თეა თოდუა",
+"governingPositionEn" : "Dean of the School of Computer Science and Architecture",
+"governingPositionGe" : "კომპიუტერული მეცნიერებისა და არქიტექტურის სკოლის დეკანი",
+"academicPositionEn" : "Dr.",
+"academicPositionGe" : "პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%97%E1%83%94%E1%83%90-%E1%83%97%E1%83%9D%E1%83%93%E1%83%A3%E1%83%90.webp"
+},
+  {
+"id" : 10,
+"NameEn" : "Ekaterine Pipia",
+"NameGe" : "ეკატერინე ფიფია",
+"governingPositionEn" : null,
+"governingPositionGe" : null,
+"academicPositionEn" : "Prof.Dr.",
+"academicPositionGe" : "პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%94%E1%83%99%E1%83%90-%E1%83%A4%E1%83%98%E1%83%A4%E1%83%98%E1%83%90-1.webp"
+},
+ {
+"id" : 11,
+"NameEn" : "Tamar Kakutia",
+"NameGe" : "თამარ კაკუტია",
+"governingPositionEn" : "Coordinator of Bachelor’s Program in Public Administration and State Governance",
+"governingPositionGe" : "საჯარო ადმინისტრირებისა და სახელმწიფო მმართველობის საბაკალავრო პროგრამის ხელმძღვანელი",
+"academicPositionEn" : "Assoc. Prof. Dr.",
+"academicPositionGe" : "ასოც. პროფ. დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5616111-844x844.webp"
+},
+ {
+"id" : 12,
+"NameEn" : "Ketevan Lapachi",
+"NameGe" : "ქეთევან ლაფაჩი",
+"governingPositionEn" : null,
+"governingPositionGe" : null,
+"academicPositionEn" : "პროფ. დოქტ.",
+"academicPositionGe" : "Prof.Dr.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2021/11/lapachi-1024x1024.jpg"
+},
+ {
+"id" : 13,
+"NameEn" : "Ketevan Nanobashvili",
+"NameGe" : "ქეთევან ნანობაშვილი",
+"governingPositionEn" : "Head of Quality Assurance Office",
+"governingPositionGe" : "დოქტ.ხარისხის უზრუნველყოფის სამსახურის უფროსი",
+"academicPositionEn" : "Doctor of Pedagogic Sciences",
+"academicPositionGe" : "პედაგოგიკის მეცნიერებათა პროფ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/%E1%83%A5%E1%83%94%E1%83%97%E1%83%94%E1%83%95%E1%83%90%E1%83%9C-%E1%83%9C%E1%83%90%E1%83%9C%E1%83%9D%E1%83%91%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98.webp"
+},
+ {
+"id" : 14,
+"NameEn" : "Tamar Shoshiashvili",
+"NameGe" : "თამარ შოშიაშვილი",
+"governingPositionEn" : "Head of Public Relations",
+"governingPositionGe" : "საზოგადოებასთან ურთიერთობისა და მარკეტინგის დეპარტამენტის  უფროსი",
+"academicPositionEn" : "Dr.",
+"academicPositionGe" : "დოქტ.",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0-%E1%83%A8%E1%83%9D%E1%83%A8%E1%83%98%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98.webp"
+},
+ {
+"id" : 15,
+"NameEn" : "Ekaterine Kavelidze",
+"NameGe" : "ეკატერინე კაველიძე",
+"governingPositionEn" : "Head of Legal Office, Secretary",
+"governingPositionGe" : "იურიდიული სამსახურის უფროსი, მდივანი",
+"academicPositionEn" : "Sophomore student of Law program",
+"academicPositionGe" : "MA",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/%E1%83%94%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%9C%E1%83%94-%E1%83%99%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94-scaled-302x302.jpg"
+},
+ {
+"id" : 16,
+"NameEn" : "Ketevan Pankvelashvili",
+"NameGe" : "ქეთევან ფანქველაშვილი",
+"governingPositionEn" : "President of Self-Governance",
+"governingPositionGe" : "თვითმმართველობის პრეზიდენტი",
+"academicPositionEn" : "Second-year student of School of Business",
+"academicPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მესამე კურსის სტუდენტი",
+"pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/06/IMG_2573111-scaled-302x302.jpg"
+}
+]
