@@ -1,5 +1,6 @@
 {
 	"adressEn": "Davit Agmashenebeli Alley, 13th km, 2, Tbilisi",
 	"adressGe": "ქ. თბილისი, დავით აღმაშენებლის ხეივანი, მე-13 კმ, 2",
-	"Postcode": "0131"
+	"postcode": "0131",
+	"email" : "contact@ibsu.edu.ge"
 }
