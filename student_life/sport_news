@@ -3,8 +3,14 @@
     "id": 1,
     "headlineEn": "IBSU student Mate Marghania made it to the quarterfinals...",
     "headlineGe": "უნივერსიადას ფარგლებში გამართულ ძიუდოისტთა შეჯიბრებაში IBSU-ს სტუდენტი მათე მარღანია მეოთხედფინალში გავიდა.",
-    "descriptionEn": "🥋 IBSU student Mate Margania competed in the Universiade’s judo competition...",
-    "descriptionGe": "🥋 უნივერსიადას ფარგლებში გამართულ ძიუდოისტთა...",
+    "descriptionEn": "🥋 IBSU student Mate Margania competed in the Universiade’s judo competition and reached the quarterfinals.
+ 
+🔹 Margania fell to the current vice-champion of Europe in the Youth category and the current Georgian champion in sambo.",
+    "descriptionGe": "🥋 უნივერსიადას ფარგლებში გამართულ ძიუდოისტთა შეჯიბრებაში IBSU-ს სტუდენტი მათე მარღანია მეოთხედფინალში გავიდა.
+
+ 
+🔹 მარღანია მეოთხედფინალში ევროპის მოქმედ ვიცე ჩემპიონთან ახალგაზრდებს შორის და სამბოში საქართველოს მოქმედ ჩემპიონთან დამარცხდა.
+ ",
     "dateEn": "22 May",
     "dateGe": "22 მაისი",
     "thumbnail": "https://sport.ibsu.edu.ge/wp-content/uploads/2023/05/343931351_253771443794409_6923362437933221745_n-1-640x367.jpg",
@@ -17,8 +23,8 @@
     "id": 2,
     "headlineEn": "Elsun Aliyev, a third-year law student of IBSU, won a gold cup and a medal.",
     "headlineGe": "IBSU-ს სამართალმცოდნეობის მესამე კურსის სტუდენტმა, ელსუნ ალიევმა ოქროს თასი და მედალი მოიპოვა.",
-    "descriptionEn": "🏋‍♂ IBSU third-year law student Elsun Aliyev won a gold trophy and a medal...",
-    "descriptionGe": "🏋‍♂ IBSU-ს სამართალმცოდნეობის მესამე კურსის სტუდენტმა...",
+    "descriptionEn": "🏋‍♂ IBSU third-year law student Elsun Aliyev won a gold trophy and a medal in the pull-up and bench press competition named after Levan Galdava. Aliyev, 20, holds the record for lifting 300 kg.",
+    "descriptionGe": "🏋‍♂ IBSU-ს სამართალმცოდნეობის მესამე კურსის სტუდენტმა, ელსუნ ალიევმა, ლევან გალდავას სახელობის შეჯიბრში ამოწევასა და წოლჭიმში, 115+ კგ წონით კატეგორიაში ოქროს თასი და მედალი მოიპოვა. 20 წლის ელსუნ ალიევის ამოწევის რეკორდი 300 კგ-ს შეადგენს.",
     "dateEn": "22 May",
     "dateGe": "22 მაისი",
     "thumbnail": "https://sport.ibsu.edu.ge/wp-content/uploads/2023/05/342450489_606458501544645_1983546712292149672_n-1-640x590.jpg",
@@ -31,8 +37,12 @@
     "id": 3,
     "headlineEn": "Students of Black Sea International University took part in the world running marathon...",
     "headlineGe": "შავი ზღვის საერთაშორისო უნივერსიტეტის სტუდენტები კახეთში გამართულ მსოფლიო რბენის მარათონში (Wings for Life) ჩაერთნენ და 10 კმ ირბინეს.",
-    "descriptionEn": "🏃 More than 500 people participated in the charity marathon...",
-    "descriptionGe": "🏃 საქველმოქმედო მარათონში 5000-ზე მეტი პირი მონაწილეობდა...",
+    "descriptionEn": "🏃 More than 5000 people participated in the charity marathon.
+ 
+🏃‍♂ Wings for Life World Run is held simultaneously in many countries. The money received from the registration will be fully transferred to the Wings for Life Foundation, which carries out medical and clinical research for the treatment of spinal cord injuries.",
+    "descriptionGe": "🏃 საქველმოქმედო მარათონში 5000-ზე მეტი პირი მონაწილეობდა.
+ 
+🏃‍♂ Wings for Life World Run ერთდროულად მრავალ ქვეყანაში იმართება. რეგისტრაციით მიღებული თანხა კი სრულად გადაერიცხება Wings for Life-ის ფონდს, რომელიც ზურგის ტვინის დაზიანების სამკურნალო სამედიცინო და კლინიკურ კვლევებს ახორციელებს.",
     "dateEn": "22 May",
     "dateGe": "22 მაისი",
     "thumbnail": "https://sport.ibsu.edu.ge/wp-content/uploads/2023/05/345587623_945826943403543_1029436846428397576_n-640x360.jpg",
@@ -45,5 +55,20 @@
       "https://sport.ibsu.edu.ge/wp-content/gallery/wings-for-life/344850140_2030101050682342_3135944278752286176_n.jpg",
       "https://sport.ibsu.edu.ge/wp-content/gallery/wings-for-life/344192400_807691414287697_6385683731413371304_n.jpg"
     ]
+  },
+  {
+    "id": 4,
+    "headlineEn": "IBSU's football team defeated Grant Thornton's team 5:1 in the Master League tournament",
+    "headlineGe": "IBSU-ს ფეხბურთის გუნდმა მასტერ ლიგის ტურნირში გრანთ თორთონის გუნდს 5:1 მოუგო",
+    "descriptionEn": "⚽ IBSU football team beat Grant Thornton team 5:1 in Master League tournament and gained three points.
+🐿 The opening of the game and the mood of the fans was taken care of by the most positive squirrel of IBSU, who showed amazing sportsmanship and tried his hand at the position of goalkeeper.
+🔹 Before our squirrel follows the path of Emiliano Martinez, you can watch the best moments of the game in the video and cheer on the IBSU team together!",
+    "descriptionGe": "⚽ IBSU-ს ფეხბურთის გუნდმა მასტერ ლიგის ტურნირში გრანთ თორთონის გუნდს 5:1 მოუგო და სამი ქულა მოიპოვა.
+🐿 თამაშის გახსნასა და გულშემატკივართა განწყობაზე იზრუნა IBSU-ს უპოზიტიურესმა ციყვმა, რომელმაც საოცარი სპორტული ჟინი გამოიჩინა და მეკარეს პოზიციაზე ძალები მოსინჯა.
+🔹 სანამ ჩვენი ციყვი ემილიანო მარტინესის გზას გაუყვება, თქვენ შეგიძლიათ თამაშის საუკეთესო მომენტებს ვიდეოში უყუროთ და IBSU-ს გუნდს ერთად ვუგულშემატკივროთ!",
+    "dateEn": "22 May",
+    "dateGe": "22 მაისი",
+    "thumbnail": "https://sport.ibsu.edu.ge/wp-content/uploads/2017/11/286454666_5010450935689833_1807950849464295931_n-1140x550-2-640x309.jpg",
+    "pictureLinksList": [ ]
   }
 ]
