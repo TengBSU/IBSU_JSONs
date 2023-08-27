@@ -7,6 +7,8 @@
 "governingPositionGe" : "პრეზიდენტი",
 "academicPositionEn" : "Sophomore student of School of Business, Economics program",
 "academicPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
+"descriptionEn" : null, 
+"descriptionGe" : null,
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/06/IMG_2573111-1536x1064.jpg"
 },
 {
@@ -17,6 +19,8 @@
 "governingPositionGe" : "ვიცე-პრეზიდენტი",
 "academicPositionEn" : "Sophomore student of School of Business, Economics program",
 "academicPositionGe" : "ბიზნესის სკოლის ეკონომიკის საბაკალავრო პროგრამის მეორე კურსის სტუდენტი",
+"descriptionEn" : null, 
+"descriptionGe" : null,
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5619111.webp"
 },
 {
@@ -27,6 +31,8 @@
 "governingPositionGe" : "განათლების, ჰუმანიტარულ და სოციალურ მეცნიერებათა სკოლის დელეგატი",
 "academicPositionEn" : "Junior student of International Relations program",
 "academicPositionGe" : "საერთაშორისო ურთიერთობების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
+"descriptionEn" : null, 
+"descriptionGe" : null,
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5612111-864x864.webp"
 },
 {
@@ -37,6 +43,8 @@
 "governingPositionGe" : "კომპიუტერული მეცნიერებისა და არქიტექტურის სკოლის დელეგატი",
 "academicPositionEn" : "Junior student of Computer Science program",
 "academicPositionGe" : "კომპიუტერული მეცნიერების საბაკალავრო პროგრამის მე-3 კურსის სტუდენტი",
+"descriptionEn" : null, 
+"descriptionGe" : null,
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5596111-833x833.webp"
 },
 {
@@ -47,6 +55,8 @@
 "governingPositionGe" : "სამართლისა და სახელმწიფო მმართველობის სკოლის დელეგატი",
 "academicPositionEn" : "Sophomore student of Law program",
 "academicPositionGe" : "სამართალმცოდნეობის საბაკალავრო პროგრამის მე-2 კურსის სტუდენტი",
+"descriptionEn" : null, 
+"descriptionGe" : null,
 "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/IMG_5616111-844x844.webp"
 }
 ]
