@@ -81,8 +81,8 @@
 },
     {
         "id": 9,
-        "nameEn": "მუსტაფა არსლან",
-        "nameGe": "Mustafa Arslan",
+        "nameEn": "Mustafa Arslan",
+        "nameGe": "მუსტაფა არსლან",
         "statusEn": "Affil. Prof.",
         "statusGe": "აფილ. პროფ",
         "isAcademic": true,
