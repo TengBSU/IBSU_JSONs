@@ -381,8 +381,8 @@
     },
       {
         "id": 39,
-        "nameEn": "ნანა ყუფუნია",
-        "nameGe": "Nana Kupunia",
+        "nameEn": "Nana Kupunia",
+        "nameGe": "ნანა ყუფუნია",
         "statusEn": "Doctor",
         "statusGe": "დოქტორი",
         "isAcademic": false,
@@ -391,8 +391,8 @@
     },
       {
         "id": 40,
-        "nameEn": "ქეთევან ციხისელი",
-        "nameGe": "Ketevan Tsikhiseli",
+        "nameEn": "Ketevan Tsikhiseli",
+        "nameGe": "ქეთევან ციხისელი",
         "statusEn": "Doctor",
         "statusGe": "დოქტორი",
         "isAcademic": false,
