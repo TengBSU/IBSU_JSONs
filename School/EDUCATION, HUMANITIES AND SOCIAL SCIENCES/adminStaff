@@ -3,6 +3,7 @@
     "id": 1,
     "nameEn": "Tamar Shioshvili",
     "nameGe": "თამარ შიოშვილი",
+    "email": "tshioshvili@ibsu.edu.ge",
     "positionEn": "Dean, Head of American Studies BA and Phd Programs",
     "positionGe": "დეკანი, აფილ. პროფ; ამერიკისმცოდნეობის საბაკალავრო და სადოქტორო პროგრამების ხელმძღვანელი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თამარ-შიოშვილი.webp"
@@ -11,6 +12,7 @@
     "id": 2,
     "nameEn": "Dali Osepashvili",
     "nameGe": "დალი ოსეფაშვილი",
+    "email": "dosepashvili@ibsu.edu.ge",
     "positionEn": "Head of Digital Media and Communication MA Program, Affil. Prof.",
     "positionGe": "ციფრული მედია და კომუნიკაციების სამაგისტრო პროგრამის ხელმძღვანელი, აფილ. პროფ.",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/დალი-ოსეფაშვილი.webp"
@@ -19,6 +21,7 @@
     "id": 3,
     "nameEn": "Ekaterine Pipia",
     "nameGe": "ეკატერინე ფიფია",
+    "email": "ekapipia@ibsu.edu.ge",
     "positionEn": "Head of Education Science PhD and Education Administration MA Programs, Affil. Prof.",
     "positionGe": "განათლების მეცნიერებების სადოქტორო პროგრამისა და განათლების ადმინისტრირების სამაგისტრო პროგრამების ხელმძღვანელი; აფილ. პროფ",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ეკა-ფიფია.webp"
@@ -27,6 +30,7 @@
     "id": 4,
     "nameEn": "Maia Chkotua",
     "nameGe": "მაია ჩქოტუა",
+    "email": "mchkotua@ibsu.edu.ge",
     "positionEn": "Head of English Philology BA and MA Programs, Affil. Assoc. Prof.",
     "positionGe": "ინგლისური ფილოლოგიის საბაკალავრო და სამაგისტრო პროგრამების ხელმძღვანელი, აფილ. ასოც. პროფ.",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მაია-ჩქოტუა.webp"
@@ -35,6 +39,7 @@
     "id": 5,
     "nameEn": "Tea Chumburidze",
     "nameGe": "თეა ჭუმბურიძე",
+    "email": "tchumburidze@ibsu.edu.ge",
     "positionEn": "Head of US Foreign Affairs MA Program, Affil. Assoc. Prof.",
     "positionGe": "აშშ-ს საგარეო ურთიერთობების სამაგისტრო პროგრამის ხელმძღვანელი, აფილ. ასოც. პროფ.",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/თეა-ჭუმბურიძე.webp"
@@ -43,6 +48,7 @@
     "id": 6,
     "nameEn": "Magda Memanishvili",
     "nameGe": "მაგდა მემანიშვილი",
+    "email": "mmemanishvili@ibsu.edu.ge",
     "positionEn": "Head of Journalism BA Program, Affil. Assoc. Prof.",
     "positionGe": "ჟურნალისტიკის ქართულენოვანი საბაკალავრო პროგრამის ხელმძღვანელი, აფილ. ასოც. პროფ.",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მაგდა-მემანიშვილი.webp"
@@ -51,6 +57,7 @@
     "id": 7,
     "nameEn": "Baia Ivaneishvili",
     "nameGe": "ბაია ივანეიშვილი",
+    "email": "bivaneishvili@ibsu.edu.ge",
     "positionEn": "Co-head of International Relations BA and MA Programs, Dr.",
     "positionGe": "საერთ. ურთ. საბაკალავრო და სამაგისტრო პროგრამების თანახელმძღვანელი, დოქტ.",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ბაია-ივანეიშვილი.webp"
@@ -59,6 +66,7 @@
     "id": 8,
     "nameEn": "Nika Chitadze",
     "nameGe": "ნიკა ჩიტაძე",
+    "email": "nchitadze@ibsu.edu.ge",
     "positionEn": "Head of International Relations BA and MA Programs, Affil.Prof.",
     "positionGe": "საერთ. ურთ. საბაკალავრო და სამაგისტრო პროგრამების ხელმძღვანელი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2019/11/nick-chitadze-420-300x300.jpg"
@@ -67,6 +75,7 @@
     "id": 9,
     "nameEn": "Ekaterine Pirtskhalava",
     "nameGe": "ეკატერინე ფირცხალავა",
+    "email": "epirtskhalava@ibsu.edu.ge",
     "positionEn": "Coordinator of Media Center, MA",
     "positionGe": "მედია ცენტრის კოორდინატორი, მაგისტრი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/04/ეკა-ფირცხალავა.webp"
@@ -75,6 +84,7 @@
     "id": 10,
     "nameEn": "Manana Ruadze",
     "nameGe": "მანანა რუაძე",
+    "email": "mruadze@ibsu.edu.ge",
     "positionEn": "Manager for Administrative Issues, MA",
     "positionGe": "ადმინისტრაციულ საქმეთა მენეჯერი, მაგისტრი",
     "pictureURL": "https://ibsu.edu.ge/wp-content/uploads/2023/07/მანანა-რუაძე.webp"
