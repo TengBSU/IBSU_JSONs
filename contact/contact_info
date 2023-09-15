@@ -4,7 +4,7 @@
     "nameEn": "Office of Rector",
     "nameGe": "რექტორის აპარატი",
     "Phone": "+995 32 2595006",
-    "extra:": "(115)",
+    "extra": "(115)",
     "Email": "rectorsoffice@ibsu.edu.ge"
   },
   {
@@ -12,7 +12,7 @@
     "nameEn": "School of Business",
     "nameGe": "ბიზნესის სკოლა",
     "Phone": "+995 32 2595006",
-    "extra:": "(188)",
+    "extra": "(188)",
     "Email": "bmfaculty@ibsu.edu.ge"
   },
   {
@@ -20,7 +20,7 @@
     "nameEn": "School of Education, Humanities and Social Sciences",
     "nameGe": "განათლების, ჰუმანიტარული და სოციალური მეცნიერებების სკოლა",
     "Phone": "+995 32 2595006",
-    "extra:": "(124)",
+    "extra": "(124)",
     "Email": "sseduhum@ibsu.edu.ge"
   },
   {
@@ -28,7 +28,7 @@
     "nameEn": "Law and State Governance School",
     "nameGe": "სამართლისა და სახელმწიფო მმართველობის სკოლა",
     "Phone": "+995 32 2595006",
-    "extra:": "(203)",
+    "extra": "(203)",
     "Email": "lawfaculty@ibsu.edu.ge"
   },
   {
@@ -36,7 +36,7 @@
     "nameEn": "School of Computer Science and Architecture",
     "nameGe": "კომპიუტერული მეცნიერებისა და არქიტექტურის სკოლა",
     "Phone": "+995 32 2595006",
-    "extra:": "(170)",
+    "extra": "(170)",
     "Email": "scsa@ibsu.edu.ge"
   },
   {
@@ -44,7 +44,7 @@
     "nameEn": "Graduate School",
     "nameGe": "სამაგისტრო და სადოქტორო სკოლა",
     "Phone": "+995 32 2595006",
-    "extra:": "(151)",
+    "extra": "(151)",
     "Email": "graduateschool@ibsu.edu.ge"
   },
   {
@@ -52,7 +52,7 @@
     "nameEn": "Learning Process Management Service",
     "nameGe": "სასწავლო პროცესის მართვის სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(175)",
+    "extra": "(175)",
     "Email": "study@ibsu.edu.ge"
   },
   {
@@ -60,7 +60,7 @@
     "nameEn": "Library",
     "nameGe": "ბიბლიოთეკა",
     "Phone": "+995 32 2595006",
-    "extra:": "(112)",
+    "extra": "(112)",
     "Email": "library@ibsu.edu.ge"
   },
   {
@@ -68,7 +68,7 @@
     "nameEn": "Career Planning Service",
     "nameGe": "კარიერული დაგეგმვის სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(202)",
+    "extra": "(202)",
     "Email": "careerplanning@ibsu.edu.ge"
   },
   {
@@ -76,7 +76,7 @@
     "nameEn": "Alumni Service",
     "nameGe": "კურსდამთავრებულთა სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(180)",
+    "extra": "(180)",
     "Email": "alumni@ibsu.edu.ge"
   },
   {
@@ -84,7 +84,7 @@
     "nameEn": "International Relations Service",
     "nameGe": "საერთაშორისო ურთიერთობების სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(140)",
+    "extra": "(140)",
     "Email": "iro@ibsu.edu.ge"
   },
   {
@@ -92,7 +92,7 @@
     "nameEn": "IBSU Academy",
     "nameGe": "IBSU აკადემია",
     "Phone": "+995 32 2595006",
-    "extra:": "(153)",
+    "extra": "(153)",
     "Email": "training@ibsu.edu.ge"
   },
   {
@@ -100,7 +100,7 @@
     "nameEn": "Legal Service",
     "nameGe": "იურიდიული სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(123)",
+    "extra": "(123)",
     "Email": "legaloffice@ibsu.edu.ge"
   },
   {
@@ -108,7 +108,7 @@
     "nameEn": "Human Resources Management and Development Service",
     "nameGe": "ადამიანური რესურსების მართვისა და განვითარების სამსახური",
     "Phone": "+995 32 2595006",
-    "extra:": "(128)",
+    "extra": "(128)",
     "Email": "hr@ibsu.edu.ge"
   },
   {
@@ -116,7 +116,7 @@
     "nameEn": "Office",
     "nameGe": "კანცელარია",
     "Phone": "+995 32 2595006",
-    "extra:": "(129)",
+    "extra": "(129)",
     "Email": "chancellery@ibsu.edu.ge"
   },
   {
@@ -124,7 +124,7 @@
     "nameEn": "Accounting",
     "nameGe": "ბუღალტერია",
     "Phone": "+995 32 2595006",
-    "extra:": "(139)",
+    "extra": "(139)",
     "Email": "accountingoffice@ibsu.edu.ge"
   },
   {
@@ -132,7 +132,7 @@
     "nameEn": "Public Relations and Marketing Department",
     "nameGe": "საზოგადოებასთან ურთიერთობის და მარკეტინგის დეპარტამენტი",
     "Phone": "+995 32 2595006",
-    "extra:": "(130)",
+    "extra": "(130)",
     "Email": "prdepartment@ibsu.edu.ge"
   }
 ]
