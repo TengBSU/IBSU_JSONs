@@ -1,0 +1,20 @@
+[
+{
+  "id": 1,
+  "positionEn": "Head of the Program",
+  "positionGe": "პროგრამის ხელმძღვანელი",
+  "nameEn": "Affiliated Associate Professor Maka Bughulashvili",
+  "nameGe": "ასოცირებული პროფესორი მაკა ბუღულაშვილიე",
+  "email": "bughulashvili@ibsu.edu.ge  ",
+  "room:": "A308"
+},
+{
+  "id": 2,
+  "positionEn": "Study Process Manager",
+  "positionGe": "სასწავლო პროცესის მენეჯერი",
+  "nameEn": "Mariam Dzagoevi",
+  "nameGe": "მარიამ ძაგოევი",
+  "email": "mdzagoevi@ibsu.edu.ge",
+  "room": null
+}
+]
