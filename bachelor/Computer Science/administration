@@ -1,0 +1,20 @@
+[
+{
+  "id": 1,
+  "positionEn": "Program Coordinator",
+  "positionGe": "პროგრამის ხელმძღვანელი",
+  "nameEn": "Dr. Nikoloz Abzianidze",
+  "nameGe": "დოქტ. ნიკოლოზ აბზიანიძე",
+  "email": "nabzianidze@ibsu.edu.ge",
+  "room:": "A310"
+},
+{
+  "id": 2,
+  "positionEn": "Study Process Manager",
+  "positionGe": "სასწავლო პროცესის მენეჯერი",
+  "nameEn": "Natavan Alieva",
+  "nameGe": "ნათევან ალიევა",
+  "email": "nalieva@ibsu.edu.ge",
+  "room": null
+}
+]
