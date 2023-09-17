@@ -680,118 +680,136 @@
     {
     "id": 41,
     "nameEn": "Applied Cryptography",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
+    "nameGe": "გამოყენებითიკრიპტოგრაფია ",
+    "ETC": 4,
     "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
+    "isCore": false,
+    "semesterNumber": 5,
     "semesterSeason": "Autumn", 
     "prerequisites": [
-    
+      "Calculus 2",
+      "Discrete Mathematics",
+      "Professional English"
     ],
     "prerequisitesGe": [
-      
+      "კალკულუსი 2",
+      "დისკრეტული მათემატიკა",
+      "პროფესიული ინგლისური" 
     ]
   },
     {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
+    "id": 42,
+    "nameEn": "Differential equations",
+    "nameGe": "დიფერენციალური განტოლებები",
+    "ETC": 5,
     "hours": 3,
-    "isCore": true,
+    "isCore": false,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
-    
+      "Calculus 2",
+      "Professional English"
     ],
     "prerequisitesGe": [
-      
+      "კალკულუსი 2",
+      "პროფესიული ინგლისური"
     ]
   },
     {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
+    "id": 43,
+    "nameEn": "Virtualization technology",
+    "nameGe": "ვირტუალიზაციის ტექნოლოგია",
+    "ETC": 5,
     "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Computer Networks",
+      "Professional English"
+    ],
+    "prerequisitesGe": [
+      "კომპიუტერული ქსელები",
+      "პროფესიული ინგლისური"
+    ]
+  },
+    {
+    "id": 44,
+    "nameEn": "Statistical Methods in Bioinformatics",
+    "nameGe": "სტატისტიკური ბიოინფორმატიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Probability and Statistics",
+      "Professional English"
+    ],
+    "prerequisitesGe": [
+      "ალბათობა და სტატისტიკა",
+      "პროფესიული ინგლისური" 
+    ]
+  },
+    {
+    "id": 45,
+    "nameEn": "Programming on Python",
+    "nameGe": "პროგრამირება პითონზე",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Principles of Programing",
+      " Professional English"
+    ],
+    "prerequisitesGe": [
+      "დაპროგრამების საფუძვლები",
+      "პროფესიული ინგლისური "
+    ]
+  },
+    {
+    "id": 46,
+    "nameEn": "Natural language processing",
+    "nameGe": "ბუნებრივი ენის დამუშავება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
-    
+      "Artificial Intelligence",
+      "Professional English"
     ],
     "prerequisitesGe": [
-      
+      "ხელოვნური ინტელექტი",
+      "პროფესიული ინგლისური"
     ]
   },
     {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
+    "id": 47,
+    "nameEn": "Basics of Neural Networks",
+    "nameGe": "ნეირონული ქსელების საფუძვლები",
+    "ETC": 5,
     "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
+    "isCore": false,
+    "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
-    
+      "Artificial Intelligence",
+      "Principles of Programing",
+      "Professional English"
     ],
     "prerequisitesGe": [
-      
+      "ხელოვნური ინტელექტი",
+      "დაპროგრამების საფუძვლები",
+      "პროფესიული ინგლისური"
     ]
   },
     {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
-    "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
-    "semesterSeason": "Autumn", 
-    "prerequisites": [
-    
-    ],
-    "prerequisitesGe": [
-      
-    ]
-  },
-    {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
-    "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
-    "semesterSeason": "Autumn", 
-    "prerequisites": [
-    
-    ],
-    "prerequisitesGe": [
-      
-    ]
-  },
-    {
-    "id": 2,
-    "nameEn": "Calculus 1",
-    "nameGe": "კალკულუსი 1",
-    "ETC": 6,
-    "hours": 3,
-    "isCore": true,
-    "semesterNumber": 1,
-    "semesterSeason": "Autumn", 
-    "prerequisites": [
-    
-    ],
-    "prerequisitesGe": [
-      
-    ]
-  },
-    {
-    "id": 2,
-    "nameEn": "Calculus 1",
+    "id": 48,
+    "nameEn": "Essentials of Ethical Hacking and Network Security",
     "nameGe": "კალკულუსი 1",
     "ETC": 6,
     "hours": 3,
