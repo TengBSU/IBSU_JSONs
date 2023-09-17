@@ -1,0 +1,1017 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+  {
+    "id": 2,
+    "nameEn": "Linear Algebra",
+    "nameGe": "წრფივი ალგებრა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 3,
+    "nameEn": "Principles of Programing",
+    "nameGe": "დაპროგრამების საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 4,
+    "nameEn": "Aspects of Computer Science and Technology",
+    "nameGe": "კომპიუტერული მეცნიერებებისა და ტექნოლოგიების ასპექტები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 5,
+    "nameEn": "Physics",
+    "nameGe": "ფიზიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 6,
+    "nameEn": "Calculus 2",
+    "nameGe": "კალკულუსი 2",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Calculus 1"
+    ],
+    "prerequisitesGe": [
+      "კალკულუსი 1"  
+    ]
+  },
+    {
+    "id": 7,
+    "nameEn": "Databases",
+    "nameGe": "მონაცემთა ბაზები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 8,
+    "nameEn": "Object Oriented Programming",
+    "nameGe": "ობიექტზე ორიენტირებული დაპროგრამება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Principles of Programing"
+    ],
+    "prerequisitesGe": [
+      "დაპროგრამების საფუძვლები"
+    ]
+  },
+    {
+    "id": 9,
+    "nameEn": "Computer Architecture",
+    "nameGe": "კომპიუტერის არქიტექტურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 10,
+    "nameEn": "Algorithms and Data Structures 1",
+    "nameGe": "ალგორითმები და მონაცემთა სტრუქტურები 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 11,
+    "nameEn": "Software Development",
+    "nameGe": "პროგრამული უზრუნველყოფის შექმნა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Object Oriented Programming"
+    ],
+    "prerequisitesGe": [
+      "ობიექტზე ორიენტირებული დაპროგრამება"
+    ]
+  },
+    {
+    "id": 12,
+    "nameEn": "Discrete Mathematics",
+    "nameGe": "დისკრეტული მათემატიკა",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 13,
+    "nameEn": "Professional English",
+    "nameGe": "პროფესიული ინგლისური",
+    "ETC": 4,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "English B2"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური B2"
+    ]
+  },
+    {
+    "id": 14,
+    "nameEn": "Operating Systems",
+    "nameGe": "ოპერაციული სისტემები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Computer Architecture"
+    ],
+    "prerequisitesGe": [
+      "კომპიუტერის არქიტექტურა"
+    ]
+  },
+    {
+    "id": 15,
+    "nameEn": "Algorithms and Data Structures 2",
+    "nameGe": "ალგორითმები და მონაცემთა სტრუქტურები 2",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Algorithms and Data Structures 1"
+    ],
+    "prerequisitesGe": [
+      "ალგორითმები და მონაცემთა სტრუქტურები 1"
+    ]
+  },
+    {
+    "id": 16,
+    "nameEn": "Academic Writing",
+    "nameGe": "აკადემიური წერა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Professional English"
+    ],
+    "prerequisitesGe": [
+      "პროფესიული ინგლისური"
+    ]
+  },
+    {
+    "id": 17,
+    "nameEn": "Theoretical Foundations of Computer Science",
+    "nameGe": "კომპიუტერული მეცნიერებების თეორიული საფუძვლები",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Discrete Mathematics",
+      "Professional English"
+    ],
+    "prerequisitesGe": [
+      "დისკრეტული მათემატიკა",
+      "პროფესიული ინგლისური"
+    ]
+  },
+    {
+    "id": 18,
+    "nameEn": "Probability and Statistics",
+    "nameGe": "ალბათობა და სტატისტიკა",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Calculus 2",
+      "Calculus 1",
+      "Professional English"
+    ],
+    "prerequisitesGe": [
+      "კალკულუსი 2",
+      "კალკულუსი 1",
+      "პროფესიული ინგლისური"
+    ]
+  },
+    {
+    "id": 19,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Calculus 1",
+    "nameGe": "კალკულუსი 1",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }
+  
+]
