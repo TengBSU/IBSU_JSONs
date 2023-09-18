@@ -1,0 +1,20 @@
+[
+{
+  "id": 1,
+  "positionEn": "Head of the Program",
+  "positionGe": "პროგრამის ხელმძღვანელი",
+  "nameEn": "Prof. Dr. Tamar Shioshvili",
+  "nameGe": "პროფესორი, დოქტ. თამარ შიოშვილი",
+  "email": "tshioshvili@ibsu.edu.ge",
+  "room:": "A302"
+},
+{
+  "id": 2,
+  "positionEn": "Study Process Manager",
+  "positionGe": "სასწავლო პროცესის მენეჯერი",
+  "nameEn": "Khatia Chkhvimiani",
+  "nameGe": "ხატია ჩხვიმიანი",
+  "email": "kchkhvimiani@ibsu.edu.ge",
+  "room": null
+}
+]
