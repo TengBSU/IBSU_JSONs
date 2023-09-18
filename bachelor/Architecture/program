@@ -1,0 +1,590 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Academic Writing",
+    "nameGe": "აკადემიური წერა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 2,
+    "nameEn": "Information Technologies",
+    "nameGe": "ინფორმაციული ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 3,
+    "nameEn": "Mathematics",
+    "nameGe": "მათემატიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 4,
+    "nameEn": "Basic Design I",
+    "nameGe": "არქიტექტურული კომპოზიციის საფუძვლები I",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 5,
+    "nameEn": "Architectural Drawing I",
+    "nameGe": "არქიტექტურული ხაზვა 1",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 6,
+    "nameEn": "Architectural Drawing II",
+    "nameGe": "არქიტექტურული ხაზვა 2",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Architectural Drawing I"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული ხაზვა I"
+    ]
+  },
+    {
+    "id": 7,
+    "nameEn": "Architecture and Art Through the Ages (till 19th century)",
+    "nameGe": "არქიტექტურა და ხელოვნება საუკუნეების განმავლობაში (მე-19 საუკუნემდე)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 8,
+    "nameEn": "Professional English",
+    "nameGe": "პროფესიული ინგლისური",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "English Language B2 Level"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენა B2 დონე"
+    ]
+  },
+    {
+    "id": 9,
+    "nameEn": "Representative Drawing ",
+    "nameGe": "რეპრეზენტატიული ხატვა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 10,
+    "nameEn": "Building Science",
+    "nameGe": "შენობა-ნაგებობები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 11,
+    "nameEn": "Architectural Project I",
+    "nameGe": "რქიტექტურული პროექტირება I",
+    "ETC": 10,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Basic Design I",
+      "Architectural Drawing II"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული კომპოზიციის საფუძვლები I",
+      "არქიტექტურული ხაზვა II"
+    ]
+  },
+    {
+    "id": 12,
+    "nameEn": "Computer Aided Design I (AutoCAD 1)",
+    "nameGe": "პროექტირების ავტომატიზირებული სისტემები წარმოებაში I (AutoCAD 1)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 13,
+    "nameEn": "Materials and Structure",
+    "nameGe": "მასალები და კონსტრუქციები",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 14,
+    "nameEn": "Architectural Physics and Building Technologies",
+    "nameGe": "არქიტექტურა და ხელოვნება საუკუნეების განმავლობაში (მე19 საუკუნემდე)",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 15,
+    "nameEn": "Architectural Project II",
+    "nameGe": "არქიტექტურული პროექტირება II",
+    "ETC": 10,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Architectural Project I"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული პროექტირება I"
+    ]
+  },
+    {
+    "id": 16,
+    "nameEn": "Modernism in Architecture and Art",
+    "nameGe": "მოდერნიზმი არქიტექტურასა და ხელოვნებაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 17,
+    "nameEn": "Basics of International Building Code",
+    "nameGe": "საერთაშორისო სამშენებლო კოდექსის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 18,
+    "nameEn": "Computer Aided Design II (AutoCAD 2)",
+    "nameGe": "პროექტირების ავტომატიზირებული სისტემები წარმოებაში II (AutoCad 2)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Computer Aided Design I (AutoCAD 1)"
+    ],
+    "prerequisitesGe": [
+      "პროექტირების ავტომატიზირებული სისტემები წარმოებაში I (AutoCad 1)"
+    ]
+  },
+    {
+    "id": 19,
+    "nameEn": "Architectural Project III",
+    "nameGe": "არქიტექტურული პროექტირება III",
+    "ETC": 10,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Architectural Project II"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული პროექტირება II"
+    ]
+  },
+    {
+    "id": 20,
+    "nameEn": "Architecture Today",
+    "nameGe": "არქიტექტურა დღეს",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 21,
+    "nameEn": "Basics of Urban Planning",
+    "nameGe": "ურბანული დაგეგმარების საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Basic Design I",
+      "Architectural Drawing II"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული კომპოზიციის საფუძვლები I",
+      "არქიტექტურული ხაზვა II"
+    ]
+  },
+    {
+    "id": 22,
+    "nameEn": "3D Digital Visualization of Architectural project (3Ds Max)",
+    "nameGe": "არქიტექტურული პროექტის სამგანზომილებიანი ციფრული ვიზუალიზაცია (3Ds Max)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 23,
+    "nameEn": "Architectural Project IV",
+    "nameGe": "არქიტექტურული პროექტირება IV",
+    "ETC": 10,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Architectural Project III"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული პროექტირება III"
+    ]
+  },
+    {
+    "id": 24,
+    "nameEn": "Internship",
+    "nameGe": "სტაჟირება",
+    "ETC": 5,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "At the end of the internship, all the Compulsory courses of previous semesters should be completed"
+    ],
+    "prerequisitesGe": [
+      "წინა სემესტრების სავალდებულო კრედიტები"
+    ]
+  },
+    {
+    "id": 25,
+    "nameEn": "Basics of Interior Design",
+    "nameGe": "ინტერიერის დიზაინის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Basic Design I",
+      "Architectural Drawing II"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული კომპოზიციის საფუძვლები I",
+      "არქიტექტურული ხაზვა II"
+    ]
+  },
+    {
+    "id": 26,
+    "nameEn": "Basics of Sustainable Architecture",
+    "nameGe": "მდგრადი არქიტექტურის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      "მასალები და კონსტრუქციები"
+    ]
+  },
+    {
+    "id": 27,
+    "nameEn": "Architectural Project V",
+    "nameGe": "არქიტექტურული პროექტირება V",
+    "ETC": 10,
+    "hours": 6,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Architectural Project IV"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული პროექტირება IV"
+    ]
+  },
+    {
+    "id": 28,
+    "nameEn": "Basics of Landscape Design",
+    "nameGe": "ლანდშაფტის დიზაინის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Basic Design I",
+      "Architectural Drawing II"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული კომპოზიციის საფუძვლები I",
+      "არქიტექტურული ხაზვა II"
+    ]
+  },
+    {
+    "id": 29,
+    "nameEn": "Bachelor thesis",
+    "nameGe": "საბაკალავრო ნაშრომი",
+    "ETC": 10,
+    "hours": 8,
+    "isCore": true,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "პროგრამით გათვალისწინებული სასწავლო კომპონენტები"
+    ],
+    "prerequisitesGe": [
+      "Educational program components"
+    ]
+  },
+    {
+    "id": 30,
+    "nameEn": "Health and Safety",
+    "nameGe": "ჯანმრთელობა და შრომის უსაფრთხოება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 31,
+    "nameEn": "Architectural Graphics",
+    "nameGe": " არქიტექტურული გრაფიკა ",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 32,
+    "nameEn": "Basic Design II",
+    "nameGe": "არქიტექტურული კომპოზიციის საფუძვლები II",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Basic Design I"
+    ],
+    "prerequisitesGe": [
+      "არქიტექტურული კომპოზიციის საფუძვლები I"
+    ]
+  },
+    {
+    "id": 33,
+    "nameEn": "Advanced structures",
+    "nameGe": "უახლესი კონსტრუქციები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Materials and Structures",
+      "Architectural Physics and Building Technologies"
+    ],
+    "prerequisitesGe": [
+      "მასალები და კონსტრუქციები",
+      "არქიტექტურული ფიზიკა და შენობათა ტექნოლოგიები"
+    ]
+  },
+    {
+    "id": 34,
+    "nameEn": "Sociology",
+    "nameGe": "სოციოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 35,
+    "nameEn": "Principles of Management",
+    "nameGe": "მენეჯმენტის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 36,
+    "nameEn": "Future Street in Urban Context",
+    "nameGe": "მომავლის ქუჩა ურბანულ კონტექსტში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Basics of Urban Planning"
+    ],
+    "prerequisitesGe": [
+      "ურბანული დაგეგმარების საფუძვლები"
+    ]
+  }
+  
+  
+]
