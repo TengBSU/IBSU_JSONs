@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "programNameEn": "Management",
-    "programNameGe": "მენეჯმენტი",
+    "programNameEn": "Business Administration – Management",
+    "programNameGe": "ბიზნეს ადმინისტრირება – მენეჯმენტი",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
@@ -12,8 +12,8 @@
   },
   {
     "id": 2,
-    "programNameEn": "Marketing",
-    "programNameGe": "მარკეტინგი",
+    "programNameEn": "Business Administration – Marketing",
+    "programNameGe": "ბიზნეს ადმინისტრირება – მარკეტინგი",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
@@ -23,8 +23,8 @@
   },
   {
     "id": 3,
-    "programNameEn": "Finances",
-    "programNameGe": "ფინანსები",
+    "programNameEn": "Business Administration – Finances",
+    "programNameGe": "ბიზნეს ადმინისტრირება – ფინანსები",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
@@ -34,8 +34,8 @@
   },
   {
     "id": 4,
-    "programNameEn": "Accounting and Audit",
-    "programNameGe": "საბუღალტრო აღრიცხვა და აუდიტი",
+    "programNameEn": "Business Administration – Accounting and Audit",
+    "programNameGe": "ბიზნეს ადმინისტრირება – საბუღალტრო აღრიცხვა და აუდიტი",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
     "englishSectorCost": 4200,
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "programNameEn": "Tourism",
+    "programNameEn": "Business Administration – Tourism",
     "programNameGe": "ტურიზმი",
     "englishSectorAvailable": true,
     "georgianSectorAvailable": true,
