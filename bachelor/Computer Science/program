@@ -418,7 +418,7 @@
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
-      "Must be completed all Compulsory Courses"
+      "At the end of the internship, all the Compulsory courses of previous semesters should be completed"
     ],
     "prerequisitesGe": [
       "სტაჟირების დასრულებისას უნდა დასრულებული ქონდეთ წინა სემესტრებში გათვალისწინებული ყველა სავალდებულო"
