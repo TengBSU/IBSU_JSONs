@@ -1,0 +1,859 @@
+[
+ {
+    "id": 1,
+    "nameEn": "Information Technologies",
+    "nameGe": "ინფორმაციული ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 2,
+    "nameEn": "Cultural Anthropology",
+    "nameGe": "კულტურული ანთროპოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 3,
+    "nameEn": "Academic Reading Skills I",
+    "nameGe": "აკადემიური კითხვის უნარჩვევები I",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 4,
+    "nameEn": "Academic Reading Skills II",
+    "nameGe": "აკადემიური კითხვის უნარ-ჩვევები II",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Academic Reading Skills I"
+    ],
+    "prerequisitesGe": [
+      "აკადემიური კითხვის უნარჩვევები I"
+    ]
+  },
+     {
+    "id": 5,
+    "nameEn": "Essay Writing",
+    "nameGe": "ესეს წერა",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Essay Writing"
+    ],
+    "prerequisitesGe": [
+      "ესეს წერა"
+    ]
+  },
+     {
+    "id": 6,
+    "nameEn": "Academic Writing",
+    "nameGe": "აკადემიური წერა",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 7,
+    "nameEn": "Listening and Pronunciation I",
+    "nameGe": "აუდირება და წარმოთქმა I",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 8,
+    "nameEn": "Listening and Pronunciation II",
+    "nameGe": "აუდირება და წარმოთქმა II",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Listening and Pronunciation I"
+    ],
+    "prerequisitesGe": [
+      "აუდირება და წარმოთქმა I"
+    ]
+  },
+     {
+    "id": 9,
+    "nameEn": "Oral Communication Skills I",
+    "nameGe": "ზეპირი კომუნიკაციის უნარ-ჩვევები I",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Oral Communication Skills I"
+    ],
+    "prerequisitesGe": [
+      "ზეპირი კომუნიკაციის უნარჩვევები I"
+    ]
+  },
+     {
+    "id": 10,
+    "nameEn": "Oral Communication Skills II",
+    "nameGe": "ზეპირი კომუნიკაციის უნარ-ჩვევები II",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 11,
+    "nameEn": "English Grammar I",
+    "nameGe": "ინგლისური ენის გრამატიკა I",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 12,
+    "nameEn": "English Grammar II",
+    "nameGe": "ინგლისური ენის გრამატიკა II",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "English Grammar I"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენის გრამატიკა I"
+    ]
+  },
+     {
+    "id": 13,
+    "nameEn": "English Language Competence I (FCE I)",
+    "nameGe": "ინგლისური ენის კომპეტენცია I (FCE I)",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 14,
+    "nameEn": "English Language Competence II (FCE II)",
+    "nameGe": "ინგლისური ენის კომპეტენცია II (FCE II)",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "English Language Competence I (FCE I)"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენის კომპეტენცია II (FCE I)"
+    ]
+  },
+     {
+    "id": 15,
+    "nameEn": "English Language Phonetics",
+    "nameGe": "ინგლისური ენის ფონეტიკა",
+    "ETC": 4,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 16,
+    "nameEn": "History of the Great Britain",
+    "nameGe": "დიდი ბრიტანეთის ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 17,
+    "nameEn": "British Culture and Pop-Culture",
+    "nameGe": "ბრიტანეთის კულტურა და პოპ-კულტურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 18,
+    "nameEn": "Theory of English Grammar",
+    "nameGe": "ინგლისური ენის გრამატიკის თეორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "English Grammar II"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენის გრამატიკა II"
+    ]
+  },
+     {
+    "id": 19,
+    "nameEn": "Stylistics",
+    "nameGe": "სტილისტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 20,
+    "nameEn": "Lexicology",
+    "nameGe": "ლექსიკოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 21,
+    "nameEn": "Introduction to Linguistics",
+    "nameGe": "ენათმეცნიერების შესავალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Literary Terms and Currents"
+    ],
+    "prerequisitesGe": [
+      "ლიტერატურული ტერმინები და მიმდინარეობები"
+    ]
+  },
+     {
+    "id": 22,
+    "nameEn": "Second Language Acquisition Theories",
+    "nameGe": "მეორე ენის ათვისების თეორიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 23,
+    "nameEn": "Literary Terms and Currents",
+    "nameGe": "ლიტერატურული ტერმინები და მიმდინარეობები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 24,
+    "nameEn": "Introduction to English Literature",
+    "nameGe": "ინგლისური ლიტერატურის შესავალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Literary Terms and Currents"
+    ],
+    "prerequisitesGe": [
+      "ლიტერატურული ტერმინები და მიმდინარეობები"
+    ]
+  },
+     {
+    "id": 25,
+    "nameEn": "Survey of World Literature",
+    "nameGe": "მსოფლიო ლიტერატურის მიმოხილვა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Literary Terms and Currents"
+    ],
+    "prerequisitesGe": [
+      "ლიტერატურული ტერმინები და მიმდინარეობები"
+    ]
+  },
+     {
+    "id": 26,
+    "nameEn": "Research and Study Skills in Linguistics and Literature",
+    "nameGe": "ლინგვისტიკისა და ლიტერატურის კვლევისა და შესწავლის უნარები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "აკადემიური წერა"
+    ],
+    "prerequisitesGe": [
+      "Academic Writing"
+    ]
+  },
+     {
+    "id": 27,
+    "nameEn": "BA Thesis in English Philology",
+    "nameGe": "საბაკალავრო ნაშრომი ინგლისურ ფილოლოგიაში",
+    "ETC": 10,
+    "hours": 2,
+    "isCore": true,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "The student must be completing all compulsory components of the program during the semester of
+working on the Bachelor thesis. At the same time, in parallel with the Bachelor thesis, the student has
+the right to pass max. two compulsory study courses. BA thesis should not be linked with the learning
+outcomes of the courses taken simultaneously with the thesis."
+    ],
+    "prerequisitesGe": [
+      "სტუდენტი საბაკალავრო ნაშრომზე მუშაობის სემესტრში უნდა ასრულებდეს პროგრამის
+ყველა სავალდებულო კომპონენტს. ამავდროულად, საბაკალავრო ნაშრომის
+პარალელურად, სტუდენტს უფლება აქვს გაიაროს მაქს. ორი სავალდებულო სასწავლო
+კურსი. ასეთ შემთხვევაში საბაკალავრო თემა არ უნდა იყოს დაკავშირებული აღებული
+სავალდებულო კურსებით გამომუშავებულ სწავლის შედეგებთან."
+    ]
+  },
+     {
+    "id": 28,
+    "nameEn": "British Society",
+    "nameGe": "ბრიტანეთის საზოგადოება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 29,
+    "nameEn": "History of the English Language Development",
+    "nameGe": "ინგლისური ენის განვითარების ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 30,
+    "nameEn": "History of Ancient Literature",
+    "nameGe": "ანტიკური ლიტერატურის ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 31,
+    "nameEn": "Survey of World Literatures in English",
+    "nameGe": "ინგლისურენოვანი მსოფლიო ლიტერატურის მიმოხილვა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Literary Terms and Currents"
+    ],
+    "prerequisitesGe": [
+      "ლიტერატურული ტერმინები და მიმდინარეობები"
+    ]
+  },
+     {
+    "id": 32,
+    "nameEn": "Textual Analysis",
+    "nameGe": "ტექსტის ანალიზი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Stylistics"
+    ],
+    "prerequisitesGe": [
+      "სტილისტიკა"
+    ]
+  },
+     {
+    "id": 33,
+    "nameEn": "English Short Story",
+    "nameGe": "ინგლისური მოთხრობა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 34,
+    "nameEn": "English Literature of the Medieval Period and the Renaissance",
+    "nameGe": "შუა საუკუნეებისა და აღორძინების ხანის ინგლისური ლიტერატურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Introduction to English Literature"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ლიტერატურის შესავალი"
+    ]
+  },
+     {
+    "id": 35,
+    "nameEn": "Literature of English Classicism and the Age of Enlightenment",
+    "nameGe": "რომანტიზმის და ვიქტორიანული ხანის ინგლისური ლიტერატურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Introduction to English Literature"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ლიტერატურის შესავალი"
+    ]
+  },
+     {
+    "id": 36,
+    "nameEn": "English Literature of Romantic Period and Victorian Age",
+    "nameGe": "კლასიციზმის და განმანათლებლობის ხანის ინგლისური ლიტერატურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Introduction to English Literature"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ლიტერატურის შესავალი"
+    ]
+  },
+     {
+    "id": 37,
+    "nameEn": "XX Century English Literature",
+    "nameGe": "XX საუკუნის ინგლისური ლიტერატურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Introduction to English Literature"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ლიტერატურის შესავალი"
+    ]
+  },
+     {
+    "id": 38,
+    "nameEn": "Academic Presentation Skills",
+    "nameGe": "აკადემიური პრეზენტაციის უნარ-ჩვევები",
+    "ETC": 4,
+    "hours": 2,
+    "isCore": false,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 39,
+    "nameEn": "Mass-Media Language",
+    "nameGe": "მას-მედიის ენა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 40,
+    "nameEn": "Stylistics of Georgian Language",
+    "nameGe": "ქართული ენის სტილისტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Georgian Language B2"
+    ],
+    "prerequisitesGe": [
+      "ქართული ენა B2"
+    ]
+  },
+     {
+    "id": 41,
+    "nameEn": "Translation Skills I",
+    "nameGe": "თარგმანის უნარ-ჩვევები I",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Stylistics of Georgian Language"
+    ],
+    "prerequisitesGe": [
+      "ქართული ენის სტილისტიკა"
+    ]
+  },
+     {
+    "id": 42,
+    "nameEn": "Translation Skills II",
+    "nameGe": "თარგმანის უნარ-ჩვევები II",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Translation Skills I"
+    ],
+    "prerequisitesGe": [
+      "თარგმანის უნარ-ჩვევები I"
+    ]
+  },
+     {
+    "id": 43,
+    "nameEn": "Language Learning Psychology",
+    "nameGe": "ენის შესწავლის ფსიქოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 44,
+    "nameEn": "Introduction to Applied Linguistics",
+    "nameGe": "გამოყენებითი ლინგვისტიკის შესავალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Introduction to Linguistics"
+    ],
+    "prerequisitesGe": [
+      "შესავალი ლინგვისტიკაში"
+    ]
+  },
+
+     {
+    "id": 45,
+    "nameEn": "Lingvo-Cultural Issues in Language",
+    "nameGe": "ლინგვო-კულტურული საკითხები ენაში",
+    "ETC": 4,
+    "hours": 2,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 46,
+    "nameEn": "Introduction to Narratology",
+    "nameGe": "შესავალი ნარატოლოგიაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 47,
+    "nameEn": "History of Georgian Civilization",
+    "nameGe": "ქართული ცივილიზაციის ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 48,
+    "nameEn": "Survey of World History",
+    "nameGe": "მსოფლიო ისტორიის შესავალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 49,
+    "nameEn": "Functional English Grammar",
+    "nameGe": "ინგლისური ენის ფუნქციური გრამატიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "English Grammar II"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენის გრამატიკა II"
+    ]
+  },
+ {
+    "id": 50,
+    "nameEn": "Introduction to Educational Psychology",
+    "nameGe": "შესავალი განათლების ფსიქოლოგიაში ",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 51,
+    "nameEn": "Educational technologies and materials development",
+    "nameGe": "განათლების ტექნოლოგიები და მასალების შემუშავება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+ {
+    "id": 52,
+    "nameEn": "Principles and methods of teaching English",
+    "nameGe": "ინგლისური ენის სწავლების პრინციპები და მეთოდები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+ {
+    "id": 53,
+    "nameEn": "English language teaching method (TKT essentials)",
+    "nameGe": "ინგლისური ენის სწავლების მეთოდიკა (TKT essentials)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Principles and methods of teaching English"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენის სწავლების პრინციპები და მეთოდები"
+    ]
+  }
+  
+]
