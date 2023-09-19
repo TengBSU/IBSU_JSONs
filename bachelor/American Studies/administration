@@ -5,6 +5,7 @@
   "positionGe": "პროგრამის ხელმძღვანელი",
   "nameEn": "Prof. Dr. Tamar Shioshvili",
   "nameGe": "პროფესორი, დოქტ. თამარ შიოშვილი",
+  "phone": "593 504106",
   "email": "tshioshvili@ibsu.edu.ge",
   "room:": "A302"
 },
@@ -14,6 +15,7 @@
   "positionGe": "სასწავლო პროცესის მენეჯერი",
   "nameEn": "Khatia Chkhvimiani",
   "nameGe": "ხატია ჩხვიმიანი",
+  "phone": null,
   "email": "kchkhvimiani@ibsu.edu.ge",
   "room": null
 }
