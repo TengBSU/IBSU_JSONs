@@ -1,0 +1,22 @@
+[
+{
+  "id": 1,
+  "positionEn": "Head of the Program",
+  "positionGe": "პროგრამის ხელმძღვანელი",
+  "nameEn": "Prof. Dr. Maia Chkotua",
+  "nameGe": "პროფესორი, დოქტ. მაია ჩქოტუა",
+  "phone": "+995 593 97 63 69",
+  "email": "mchkotua@ibsu.edu.ge",
+  "room:": "A305"
+},
+{
+  "id": 2,
+  "positionEn": "Study Process Manager",
+  "positionGe": "სასწავლო პროცესის მენეჯერი",
+  "nameEn": "Khatia Chkhvimiani",
+  "nameGe": "ხატია ჩხვიმიანი",
+  "phone": null,
+  "email": "kchkhvimiani@ibsu.edu.ge",
+  "room": null
+}
+]
