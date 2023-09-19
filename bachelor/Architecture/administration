@@ -5,6 +5,7 @@
   "positionGe": "პროგრამის ხელმძღვანელი",
   "nameEn": "Dr. Giorgi Tsanatskenishvili",
   "nameGe": "დოქტ. გიორგი წანაწყენიშვილი",
+  "phone": null,
   "email": "gtsanatskenishvili@ibsu.edu.ge",
   "room:": "A319"
 },
@@ -14,6 +15,7 @@
   "positionGe": "სასწავლო პროცესის მენეჯერი",
   "nameEn": "Natavan Alieva",
   "nameGe": "ნათევან ალიევა",
+  "phone": null,
   "email": "nalieva@ibsu.edu.ge",
   "room": null
 }
