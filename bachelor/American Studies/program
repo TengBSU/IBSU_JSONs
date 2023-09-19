@@ -1,0 +1,643 @@
+  [
+  {
+    "id": 1,
+    "nameEn": "Information Technologies",
+    "nameGe": "ინფორმაციული ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "Academic Writing",
+    "nameGe": "აკადემიური წერა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 3,
+    "nameEn": "English for Academic Purposes",
+    "nameGe": "ინგლისური აკადემიური მიზნებისთვის",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 4,
+    "nameEn": "American Essay Writing*",
+    "nameGe": "ამერიკული ესსეს წერა*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 5,
+    "nameEn": "American Fiction and Non-Fiction*",
+    "nameGe": "ამერიკული მხატვრული და არამხატვრული პროზა*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 6,
+    "nameEn": "Communication Skills",
+    "nameGe": "კომუნიკაციის უნარ-ჩვევები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 7,
+    "nameEn": "ამერიკის ღირსშესანიშნეობები I *",
+    "nameGe": "American Landmarks I*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 8,
+    "nameEn": "Introduction to American Studies*",
+    "nameGe": "ამერიკისმცოდნეობის შესავალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 9,
+    "nameEn": "American Multicultural Studies II*",
+    "nameGe": "ამერიკის მულტიკულტურული სწავლება II*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 10,
+    "nameEn": "Introduction to American Literature*",
+    "nameGe": "ამერიკის ლიტერატურის შესავალი*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 11,
+    "nameEn": "American History I*",
+    "nameGe": "ამერიკის ისტორია I*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 12,
+    "nameEn": "Culture and Society of the U.S.*",
+    "nameGe": "ამერიკის კულტურა და საზოგადოება*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 13,
+    "nameEn": "Women’s Studies in the US*",
+    "nameGe": "ქალთა საკითხების კვლევა ამერიკაში*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 14,
+    "nameEn": "American History II",
+    "nameGe": "ამერიკის ისტორია II*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "American History I"
+    ],
+    "prerequisitesGe": [
+      "ამერიკის ისტორია I"
+    ]
+  },
+    {
+    "id": 15,
+    "nameEn": "American Politics*",
+    "nameGe": "ამერიკის პოლიტიკა *",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 16,
+    "nameEn": "Research and Study Skills",
+    "nameGe": "კვლევის მეთოდები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 17,
+    "nameEn": "Bachelor Thesis*",
+    "nameGe": "საბაკალავრო ნაშრომი *",
+    "ETC": 10,
+    "hours": 2,
+    "isCore": true,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "All Compulsory taught components"
+    ],
+    "prerequisitesGe": [
+      "ყველა სავალდებულო სასწავლო კომპონენტი"
+    ]
+  },
+    {
+    "id": 18,
+    "nameEn": "Advanced English Reading",
+    "nameGe": "კითხვა ინგლისურად (მაღალი დონე)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 19,
+    "nameEn": "Advanced English Grammar",
+    "nameGe": "ინგლისური ენის გრამატიკა (მაღალი დონე)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 20,
+    "nameEn": "Advanced Composition",
+    "nameGe": "თხზულება (მაღალი დონე)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 21,
+    "nameEn": "Advanced English Language Speaking and Listening",
+    "nameGe": "ინგლისური საუბარი და მოსმენა(მაღალი დონე)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 22,
+    "nameEn": "Literary Terms and Currents",
+    "nameGe": "ლიტერატურული ტერმინები და მიმდინარეობები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 23,
+    "nameEn": "American Landmarks II*",
+    "nameGe": "ამერიკის ღირსშესანიშნაობები II*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 24,
+    "nameEn": "American Short Story*",
+    "nameGe": "ამერიკული მოთხრობა*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 25,
+    "nameEn": "Survey of World Literature",
+    "nameGe": "მსოფლიო ლიტერატურის მიმოხილვა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 26,
+    "nameEn": "American Institutions*",
+    "nameGe": "ამერიკის ინსტიტუციები*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 27,
+    "nameEn": "American Novel*",
+    "nameGe": "ამერიკული რომანი*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 28,
+    "nameEn": "Development of Independent Georgia's Relations with the U.S.*",
+    "nameGe": "დამოუკიდებელი საქართველოს და აშშ-ს ურთიერთობების განვითარება*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 5,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 29,
+    "nameEn": "Hollywood*",
+    "nameGe": "ჰოლივუდი*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 30,
+    "nameEn": "American Music and Cinema*",
+    "nameGe": "ამერიკული მუსიკა და კინო*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 31,
+    "nameEn": "American Business Law*",
+    "nameGe": "ამერიკის ბიზნეს სამართალი*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 32,
+    "nameEn": "American Economics*",
+    "nameGe": "ამერიკის ეკონომიკა*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 33,
+    "nameEn": "American Women’s History*",
+    "nameGe": "ამერიკელი ქალების ისტორია*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 34,
+    "nameEn": "North-Atlantic Alliance (NATO)*",
+    "nameGe": "ჩრდილო-ატლანტიკური ალიანსი (NATO)*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 35,
+    "nameEn": "American Media*",
+    "nameGe": "ამერიკული მედია*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 36,
+    "nameEn": "Personality and Psychology",
+    "nameGe": "პიროვნება და ფსიქოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 37,
+    "nameEn": "American Presidents and U.S. Foreign Policy*",
+    "nameGe": "ამერიკის პრეზიდენტები და აშშ-სა საგარეო პოლიტიკა*",
+    "ETC": 5,
+    "hours": 8,
+    "isCore": false,
+    "semesterNumber": 1,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 38,
+    "nameEn": "American Art*",
+    "nameGe": "ამერიკული ხელოვნება*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 39,
+    "nameEn": "Race and Modern Political Thought",
+    "nameGe": "რასა და თანამედროვე პოლიტიკური აზრი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 40,
+    "nameEn": "US Foreign Policy from 1945 to Present*",
+    "nameGe": "აშშ-ს საგარეო პოლიტიკა 1945 წლიდან დღემდე*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }
+  
+  ]
