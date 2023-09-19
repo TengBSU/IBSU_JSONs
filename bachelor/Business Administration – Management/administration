@@ -5,6 +5,7 @@
   "positionGe": "პროგრამის ხელმძღვანელი",
   "nameEn": "Affiliated Associate Professor Maka Bughulashvili",
   "nameGe": "ასოცირებული პროფესორი მაკა ბუღულაშვილიე",
+  "phone": "+995 558 40 72 50",
   "email": "bughulashvili@ibsu.edu.ge  ",
   "room:": "A308"
 },
@@ -14,6 +15,7 @@
   "positionGe": "სასწავლო პროცესის მენეჯერი",
   "nameEn": "Mariam Dzagoevi",
   "nameGe": "მარიამ ძაგოევი",
+  "phone": null,
   "email": "mdzagoevi@ibsu.edu.ge",
   "room": null
 }
