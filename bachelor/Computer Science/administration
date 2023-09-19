@@ -5,6 +5,7 @@
   "positionGe": "პროგრამის ხელმძღვანელი",
   "nameEn": "Dr. Nikoloz Abzianidze",
   "nameGe": "დოქტ. ნიკოლოზ აბზიანიძე",
+  "phone": null,
   "email": "nabzianidze@ibsu.edu.ge",
   "room:": "A310"
 },
@@ -14,6 +15,7 @@
   "positionGe": "სასწავლო პროცესის მენეჯერი",
   "nameEn": "Natavan Alieva",
   "nameGe": "ნათევან ალიევა",
+  "phone": null,
   "email": "nalieva@ibsu.edu.ge",
   "room": null
 }
