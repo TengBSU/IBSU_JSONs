@@ -1,0 +1,22 @@
+[
+{
+  "id": 1,
+  "positionEn": "Head of the Program",
+  "positionGe": "პროგრამის ხელმძღვანელი",
+  "nameEn": "Dr. Baia Ivaneishvili",
+  "nameGe": "პროფესორი, დოქტ. ბაია ივანეიშვილი",
+  "phone": null,
+  "email": "bivaneishvili@ibsu.edu.ge",
+  "room:": "A304"
+},
+{
+  "id": 2,
+  "positionEn": "Study Process Manager",
+  "positionGe": "სასწავლო პროცესის მენეჯერი",
+  "nameEn": "Tamar Zurosvhili",
+  "nameGe": "თამარ ზუროშვილი",
+  "phone": null,
+  "email": "tzuroshvili@ibsu.edu.ge",
+  "room": null
+}
+]
