@@ -1,0 +1,924 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Academic Writing",
+    "nameGe": "აკადემიური წერა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+  {
+    "id": 2,
+    "nameEn": "Information Technology",
+    "nameGe": "ინფორმაციული ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 3,
+    "nameEn": "History of Political Thought",
+    "nameGe": "პოლიტიკური აზრის ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 4,
+    "nameEn": "Introduction to Economics",
+    "nameGe": "ეკონომიკის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 5,
+    "nameEn": "Survey of World History",
+    "nameGe": "მსოფლიო ისტორიის მიმოხილვა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 6,
+    "nameEn": "Introduction to Political Ideologies",
+    "nameGe": "პოლიტიკური იდეოლოგიების საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "History of Political Thought"
+    ],
+    "prerequisitesGe": [
+      "პოლიტიკური აზრის ისტორია"
+    ]
+  },
+    {
+    "id": 7,
+    "nameEn": "History of International Relations",
+    "nameGe": "საერთაშორისო ურთიერთობების ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Survey of World History"
+    ],
+    "prerequisitesGe": [
+      "მსოფლიო ისტორიის მიმოხილვა"
+    ]
+  },
+    {
+    "id": 8,
+    "nameEn": "Basics of Sociology",
+    "nameGe": "სოციოლოგიის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 9,
+    "nameEn": "Basics of Law",
+    "nameGe": "სამართლის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 10,
+    "nameEn": "Introduction to Political Science",
+    "nameGe": "შესავალი პოლიტიკის მეცნიერებაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 11,
+    "nameEn": "Professional English I*",
+    "nameGe": "პროფესიული ინგლისური I*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "English Language B2.2*"
+    ],
+    "prerequisitesGe": [
+      "ინგლისური ენა B2.2*"
+    ]
+  },
+    {
+    "id": 12,
+    "nameEn": "Professional English II*",
+    "nameGe": "პროფესიული ინგლისური II*",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Professional English I"
+    ],
+    "prerequisitesGe": [
+      "პროფესიული ინგლისური I"
+    ]
+  },
+    {
+    "id": 13,
+    "nameEn": "Introduction to Theory of International Relations",
+    "nameGe": "შესავალი საერთაშორისო ურთიერთობების თეორიაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 14,
+    "nameEn": "International Organizations",
+    "nameGe": "საერთაშორისო ორგანიზაციები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 15,
+    "nameEn": "Negotiations and Conflict Resolution",
+    "nameGe": "მოლაპარაკებები და კონფლიქტების გადაწყვეტა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Professional English I"
+    ],
+    "prerequisitesGe": [
+      "პროფესიული ინგლისური I"
+    ]
+  },
+    {
+    "id": 16,
+    "nameEn": "International Politics",
+    "nameGe": "საერთაშორისო პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Introduction to Theory of International Relations",
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია",
+      "შესავალი საერთაშორისო ურთიერთობების თეორიაში",
+      "პროფესიული ინგლისური I"
+    ]
+  },
+    {
+    "id": 17,
+    "nameEn": "International Economics",
+    "nameGe": "საერთაშორისო ეკონომიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Introduction to Economics"
+    ],
+    "prerequisitesGe": [
+      "ეკონომიკის საფუძვლები"
+    ]
+  },
+    {
+    "id": 18,
+    "nameEn": "Public International Law",
+    "nameGe": "საჯარო საერთაშორისო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 19,
+    "nameEn": "Research Methods in Social Sciences",
+    "nameGe": "კვლევის მეთოდები სოციალურ მეცნიერებებში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 20,
+    "nameEn": "Introduction to International Security",
+    "nameGe": "შესავალი საერთაშორისო უსაფრთხოებაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Introduction to Theory of International Relations",
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "შესავალი საერთაშორისო ურთიერთობების თეორიაში",
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 21,
+    "nameEn": "Introduction to Foreign Policy Analysis",
+    "nameGe": "შესავალი საგარეო პოლიტიკის ანალიზში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Introduction to Theory of International Relations",
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "შესავალი საერთაშორისო ურთიერთობების თეორიაში",
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 22,
+    "nameEn": "Politics of European Union",
+    "nameGe": "ევროკავშირის პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 23,
+    "nameEn": "Foreign Policy of Georgia",
+    "nameGe": "საქართველოს საგარეო პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 24,
+    "nameEn": "Thesis Writing (Practical Course)",
+    "nameGe": "თეზისის წერა (პრაქტიკული კურსი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Academic Writing",
+      "Introduction to Theory of International Relations",
+      "Research Methods in Social Sciences"
+    ],
+    "prerequisitesGe": [
+      "შესავალი საერთაშორისო ურთიერთობების თეორიაში",
+      "კვლევის მეთოდები სოციალურ მეცნიერებებში",
+      "პროფესიული ინგლისური I"
+    ]
+  },
+    {
+    "id": 25,
+    "nameEn": "Bachelor Thesis",
+    "nameGe": "საბაკალავრო ნაშრომი",
+    "ETC": 10,
+    "hours": 2,
+    "isCore": true,
+    "semesterNumber": 8,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "The student must be completing all mandatory components of the program during the semester of working on the Bachelor thesis. At the same time, in parallel with the Bachelor thesis, the student has the right to pass the max. three mandatory study courses (excluding foreign languages)."
+    ],
+    "prerequisitesGe": [
+      "სტუდენტი საბაკალავრო ნაშრომზე მუშაობის სემესტრში უნდა ასრულებდეს პროგრამის ყველა სავალდებულო კომპონენტს. ამავდროულად, საბაკალავრო ნაშრომის პარალელურად, სტუდენტს უფლება აქვს გაიაროს მაქს. სამი სავალდებულო სასწავლო კურსი (უცხო ენების ჩაუთვლელად)."
+    ]
+  },
+    {
+    "id": 26,
+    "nameEn": "Basics of Philosophy",
+    "nameGe": "ფილოსოფიის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 27,
+    "nameEn": "Cultural Anthropology",
+    "nameGe": "საზოგადოება და კულტურა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 28,
+    "nameEn": "Human Rights Theory and Practice",
+    "nameGe": "ადამაიანის უფლებების თეორია და პრაქტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 29,
+    "nameEn": "History of Georgia",
+    "nameGe": "საქართველოს ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 30,
+    "nameEn": "Introduction to Psychology",
+    "nameGe": "შესავალი ფსიქოლოგიაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 31,
+    "nameEn": "World Social and Political Geography",
+    "nameGe": "საქართველოს პოლიტიკური სისტემა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 32,
+    "nameEn": "Empires and Imperialism",
+    "nameGe": "იმპერიები და იმპერიალიზმი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 33,
+    "nameEn": "Foreign Policy of the USA",
+    "nameGe": "აშშ-ის საგარეო პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 34,
+    "nameEn": "Foreign Policy of Russia",
+    "nameGe": "რუსეთის საგარეო პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },  {
+    "id": 35,
+    "nameEn": "Foreign Policy of China",
+    "nameGe": "ჩინეთის საგარეო პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+     "prerequisites": [
+        "History of International Relations"
+    ],
+      "prerequisitesGe": [
+        "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+    {
+    "id": 36,
+    "nameEn": "Caucasus Region in International Relations",
+    "nameGe": "კავკასიის რეგიონი საერთაშორისო ურთიერთობებში",
+    "ETC": 5,
+    "hours": 3,
+      "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+ {
+    "id": 37,
+    "nameEn": "Asia-Pacific in World Politics",
+    "nameGe": "აზია-წყნარი ოკეანის რეგიონი მსოფლიო პოლიტიკაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+ {
+    "id": 38,
+    "nameEn": "Politics of Former Soviet Union",
+    "nameGe": "პოსტ-საბჭოთა სივრცე საერთაშორისო პოლიტიკაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 39,
+    "nameEn": "MENA Region in International Affairs",
+    "nameGe": "აზია-წყნარი ოკეანის რეგიონი მსოფლიო პოლიტიკაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 40,
+    "nameEn": "Latin America in World Politics",
+    "nameGe": "ლათინური ამერიკა მსოფლიო პოლიტიკაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 41,
+    "nameEn": "Politics of the CEE Region",
+    "nameGe": "ახლო აღმოსავლეთისა და ჩრდილოეთ აფრიკის რეგიონის პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 42,
+    "nameEn": "Introduction to Conflict Studies",
+    "nameGe": "შესავალი კონფლიქტების კვლევაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+   "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 43,
+    "nameEn": "Comparative Politics",
+    "nameGe": "შედარებითი პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "Introduction to Political Science"
+    ],
+    "prerequisitesGe": [
+      "შესავალი პოლიტიკის მეცნიერებაში"
+    ]
+  },
+   {
+    "id": 44,
+    "nameEn": "Social Movements in International Relations",
+    "nameGe": "სოციალური მოძრაობები საერთაშორისო ურთიერთობებში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 45,
+    "nameEn": "Introduction to National Security Policy",
+    "nameGe": "შესავალი ეროვნული უსაფრთხოების პოლიტიკაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 46,
+    "nameEn": "Introduction to International Political Economy",
+    "nameGe": "შესავალი საერთაშორისო პოლიტიკურ ეკონომიაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "Introduction to Economics"
+    ],
+    "prerequisitesGe": [
+      "ეკონომიკის საფუძვლები"
+    ]
+  },
+   {
+    "id": 47,
+    "nameEn": "Nationalism in International Relations",
+    "nameGe": "ნაციონალიზმი საერთაშორისო ურთიერთობებში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "Introduction to Theory of International Relations"
+    ],
+    "prerequisitesGe": [
+      "შესავალი საერთაშორისო ურთიერთობების თეორიაში"
+    ]
+  },
+   {
+    "id": 48,
+    "nameEn": "Geopolitics",
+    "nameGe": " გეოპოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 49,
+    "nameEn": "World Diplomacy: Theory and Practice",
+    "nameGe": "მსოფლიო დიპლომატია: თეორია და პრაქტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 50,
+    "nameEn": "Gender and International Relations",
+    "nameGe": "გენდერი და საერთაშორისო ურთიერთობები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+     {
+    "id": 51,
+    "nameEn": "World Politics and Film",
+    "nameGe": "მსოფლიო პოლიტიკა და კინო",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 52,
+    "nameEn": "NATO: International Security and the Atlantic Alliance",
+    "nameGe": "მსოფლიოს სოციალური და  პოლიტიკური გეოგრაფია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+   {
+    "id": 53,
+    "nameEn": "Intercultural Communication",
+    "nameGe": "Ინტერკულტურული კომუნიკაცია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+   {
+    "id": 54,
+    "nameEn": "Critical Thinking",
+    "nameGe": "Კრიტიკული აზროვნება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+ {
+    "id": 55,
+    "nameEn": "Socilogy of Social Changes",
+    "nameGe": "სოციალური ცვლილებების სოციოლოგია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "Basics of Sociology"
+    ],
+    "prerequisitesGe": [
+      "სოციოლოგიის საფუძვლები"
+    ]
+  },
+ {
+    "id": 56,
+    "nameEn": "Foreign and Security Policy of the Nordic Countries",
+    "nameGe": "სკანდინავიის ქვეყნების საგარეო და უსაფრთხოების პოლიტიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "History of International Relations"
+    ],
+    "prerequisitesGe": [
+      "საერთაშორისო ურთიერთობების ისტორია"
+    ]
+  },
+ {
+    "id": 57,
+    "nameEn": "Internship",
+    "nameGe": " სტაჟირება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "semesterNumber": null,
+    "semesterSeason": null, 
+    "prerequisites": [
+      "Student should be  at least in the 5th semester of study."
+    ],
+    "prerequisitesGe": [
+      "სტაჟირება სტუდენტი უნდა იმყოფებოდეს სულ მცირე სწავლების მეხუთე სემესტრში"
+    ]
+  }
+  ]
