@@ -6,6 +6,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -22,6 +24,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -38,6 +42,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -54,6 +60,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -70,6 +78,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -86,6 +96,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -102,6 +114,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -118,6 +132,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 3,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -134,6 +150,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 4,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -150,6 +168,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 4,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -166,6 +186,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 5,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -182,6 +204,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 5,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -198,6 +222,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 6,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -214,6 +240,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 6,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -230,6 +258,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -246,6 +276,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -262,6 +294,8 @@
     "ETC": 10,
     "hours": 2,
     "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -278,6 +312,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -294,6 +330,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -310,6 +348,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -326,6 +366,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -342,6 +384,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -358,6 +402,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -374,6 +420,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 5,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -390,6 +438,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 5,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -406,6 +456,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 6,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -422,6 +474,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 6,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -438,6 +492,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 5,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -454,6 +510,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -470,6 +528,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -486,6 +546,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -502,6 +564,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -518,6 +582,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -534,6 +600,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -550,6 +618,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -566,6 +636,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -582,6 +654,8 @@
     "ETC": 5,
     "hours": 8,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -598,6 +672,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 8,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -614,6 +690,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
@@ -630,6 +708,8 @@
     "ETC": 5,
     "hours": 3,
     "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
     "semesterNumber": 7,
     "semesterSeason": "Autumn", 
     "prerequisites": [
