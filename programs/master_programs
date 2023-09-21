@@ -120,7 +120,7 @@
     "englishSectorCost": 6500,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
+    "isReady": true,
     "shouldDownloadFile": true,
     "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2023/07/Program-Management-and-CS-for-Web.pdf",
     "georgianSectorCost": null
