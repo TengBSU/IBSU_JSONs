@@ -8,6 +8,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
     {
@@ -19,6 +22,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
     {
@@ -30,6 +36,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4500
   },
     {
@@ -41,6 +50,9 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4500
   },
     {
@@ -52,6 +64,9 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
       {
@@ -63,6 +78,9 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4500
   },
       {
@@ -74,6 +92,9 @@
     "englishSectorCost": null,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4500
   },
       {
@@ -85,6 +106,9 @@
     "englishSectorCost": 4500,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
       {
@@ -96,6 +120,9 @@
     "englishSectorCost": 6500,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2023/07/Program-Management-and-CS-for-Web.pdf",
     "georgianSectorCost": null
   },
       {
@@ -107,6 +134,9 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4500
   }
 ]
