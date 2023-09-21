@@ -8,6 +8,9 @@
     "englishSectorCost": 4200,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   },
   {
@@ -19,6 +22,9 @@
     "englishSectorCost": 4200,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   },
   {
@@ -30,6 +36,9 @@
     "englishSectorCost": 4200,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   },
   {
@@ -41,6 +50,9 @@
     "englishSectorCost": 4200,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   },
   {
@@ -52,6 +64,9 @@
     "englishSectorCost": 2940,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 2940
   },
   {
@@ -63,6 +78,9 @@
     "englishSectorCost": 4200,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
   {
@@ -74,6 +92,9 @@
     "englishSectorCost": 2460,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 2460
   },
   {
@@ -85,6 +106,9 @@
     "englishSectorCost": 4440,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4440
   },
   {
@@ -96,6 +120,9 @@
     "englishSectorCost": 5940,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
   {
@@ -107,6 +134,9 @@
     "englishSectorCost": 2580,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
   {
@@ -118,6 +148,9 @@
     "englishSectorCost": 3900,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": null
   },
   {
@@ -129,6 +162,9 @@
     "englishSectorCost": 4980,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4980
   },
   {
@@ -140,6 +176,9 @@
     "englishSectorCost": null,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 3540
   },
   {
@@ -151,6 +190,9 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
+    "isReady": false,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   },
   {
@@ -162,6 +204,9 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": false,
+    "fileLink": null,
     "georgianSectorCost": 4200
   }
 ]
