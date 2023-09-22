@@ -276,7 +276,10 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
-    "description_En": null,
+    "description_En": "The course aims to teach students how to plan / execute
+official documents / scientific papers according to the
+standards and also to develop basic writing skills required for
+the legal profession.",
     "description_Ge": "სასწავლო კურსის მიზანია სტუდენტებმა
 ისწავლონ თეზისების, რეფერატების,
 კვლევითი პროექტების და სხვა სამეცნიერო
@@ -532,7 +535,8 @@
     "ETC": 4,
     "hours": 3,
     "isCore": false,
-    "description_En": null,
+    "description_En": "The course aims to teach students computer technologies and
+office programs.",
     "description_Ge": "კურსის მიზანია სტუდენტებს შეასწავლოს
 კომპიუტერული ტექნოლოგიები და ოფისის
 პროგრამები,რათა შეასრულონ სხვადასხვა
