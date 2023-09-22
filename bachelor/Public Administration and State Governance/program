@@ -1,12 +1,17 @@
   [
   {
     "id": 1,
-    "nameEn": "",
+    "nameEn": "Sociology",
     "nameGe": "სოციოლოგია",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "On the completion of the course the students should have a general knowledge of the social world.  The aims of the course are: - to provide students with a systematic introduction to the study of human behaviour; 
+-to help students in understanding the functions of their own society and other cultures better. 
+-to help students in identifying a diversity of behavioural problems ranging from global to local dimensions. 
+-to help students in understanding and analysing major problems facing contemporary society involving sociological theory and research.
+-to relate the results of the sociological analysis to concerns of local communities. To research and evaluate potential solutions to behavioural problems 
+",
     "description_Ge": "პოლიტიკური აზრის
 კურსის მიზანია შეასწავლოს სტუდენტს
 სოციოლოგიის, როგორც საზოგადოების
@@ -25,12 +30,12 @@
   },
   {
     "id": 2,
-    "nameEn": "",
+    "nameEn": "History of Political Thought",
     "nameGe": "პოლიტიკური აზრის ისტორია",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The aim of the course is to teach students major texts in the history of political thought and discuss questions they raise about the design of the political and social order. It considers the ways in which thinkers have responded to the specific political problems of the day and the ways in which they contribute to a broader discussion about power, state, freedom, equality, representation, legitimacy, human goods and needs, justice, democracy and the proper relationship of the individual and the state.",
     "description_Ge": "სასწავლო კურსის მიზანია საჯარო
 ადმინისტრირებისა და სახელმწიფო
 მმართველობის საბაკალავრო პროგრამის
@@ -97,12 +102,14 @@
   },
     {
     "id": 4,
-    "nameEn": "",
+    "nameEn": "Basics of law",
     "nameGe": "სამართლის საფუძვლები",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The course aims to get students acquainted with the basics of
+state and law, basic principles, categories and institutes of
+law.",
     "description_Ge": "კურსი მიზნად ისახავს გააცნოს სტუდენტებს
 სახელმწიფოსა და სამართლის საფუძვლები,
 სამართლის ძირითადი პრინციპები,
@@ -139,12 +146,14 @@
 
     {
     "id": 5,
-    "nameEn": "",
+    "nameEn": "Constitutional Law",
     "nameGe": "კონსტიტუციური სამართალი",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The course aims to provide students with an adequate
+understanding of constitutional law and to teach the
+fundamental principles of the constitution.",
     "description_Ge": "საქართველოს კონსტიტუციური სამართლის
 შესწავლის მიზანია სტუდენტებს შეუქმნას
 ადეკვატური წარმოდგენა და ასწავლოს:
@@ -285,12 +294,15 @@
   },
     {
     "id": 10,
-    "nameEn": "",
+    "nameEn": "Administrative Law",
     "nameGe": "ადმინისტრაციული სამართალი",
     "ETC": 4,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The course aims to give student a broad theoretical
+knowledge of the role of administrative law and regulatory
+norms.
+",
     "description_Ge": "კურსის მიზანია სტუდენტს გააცნოს
 საქართველოს ადმინისტრაციული
 სამართლის ძირითადი პრინციპები,
@@ -306,12 +318,15 @@
   },
     {
     "id": 11,
-    "nameEn": "",
+    "nameEn": "Basic Rights and Freedoms of a Person",
     "nameGe": "ადამიანის ძირითადი უფლებები და თავისუფლებები",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The course aims to give students knowledge of the basics of
+international human rights law, principles of human rights
+and their protection, ways of practical application, universal
+and regional systems of fundamental rights protection. ",
     "description_Ge": "სასწავლო კურსის მიზანია სტუდენტს
 გააცნოს:
 1. სახელმწიფოსა და პიროვნების
@@ -371,7 +386,7 @@
   },
     {
     "id": 13,
-    "nameEn": "",
+    "nameEn": "Preparation of Documents",
     "nameGe": "ოფიციალური დოკუმენტების მომზადება",
     "ETC": 3,
     "hours": null,
@@ -405,7 +420,7 @@
   },
     {
     "id": 14,
-    "nameEn": "",
+    "nameEn": "Public Finance Management",
     "nameGe": "საჯარო ფინანსების მართვა",
     "ETC": 5,
     "hours": null,
@@ -581,7 +596,7 @@ EViews-ის ძირითდი პრინციპები და მა
   },
     {
     "id": 19,
-    "nameEn": "",
+    "nameEn": "International Economics",
     "nameGe": "საერთაშორისო ეკონომიკა",
     "ETC": 5,
     "hours": null,
@@ -658,7 +673,7 @@ EViews-ის ძირითდი პრინციპები და მა
 გაანალიზონ საკანონმდებლო პროცესის და
 საბიუჯეტო პროცესის უერთიერკავშირები,
 შეაფასონ რეგულირების გავლენა
-ეკონომიკაზე და უმთავრესად ფინანსებზე,
+თავისუფზე და უმთავრესად ფინანსებზე,
 გაანალიზონ ფისკალური პოლიტიკის
 ინდიკატორები, ბიჯეტირებასთან
 დაკავშირებული რეფორმები
@@ -801,7 +816,7 @@ EViews-ის ძირითდი პრინციპები და მა
     {
     "id": 25,
     "nameEn": "",
-    "nameGe": "საქართველოს ეკონომიკა",
+    "nameGe": "საქართველოს თავისუფალი",
     "ETC": 5,
     "hours": null,
     "isCore": true,
@@ -1004,25 +1019,34 @@ EViews-ის ძირითდი პრინციპები და მა
   },
     {
     "id": 30,
-    "nameEn": "",
+    "nameEn": "Information Technology",
     "nameGe": "ინფორმაციული ტექნოლოგიები",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
-    "description_Ge": "",
+    "description_En": "The course aims to teach students computer technologies and
+office programs. ",
+    "description_Ge": "კურსის მიზანია სტუდენტებს შეასწავლოს
+კომპიუტერული ტექნოლოგიები და ოფისის
+პროგრამები,რათა შეასრულონ სხვადასხვა
+დავალებები, მონაცემთა
+ანალიზი,შედეგების წარდგენა
+პრეზენტაციის მეშვეობით",
     "semesterNumber": null,
     "semesterSeason": null, 
     "prerequisites": null,
     "prerequisitesGe": null
   },  {
     "id": 31,
-    "nameEn": "",
+    "nameEn": "Academic writing",
     "nameGe": "აკადემიური წერა",
     "ETC": 5,
     "hours": null,
     "isCore": true,
-    "description_En": "",
+    "description_En": "The course aims to teach students how to plan / execute
+official documents / scientific papers according to the
+standards and also to develop basic writing skills required for
+the legal profession.",
     "description_Ge": "სასწავლო კურსის მიზანია სტუდენტებმა
 ისწავლონ თეზისების, რეფერატების,
 კვლევითი პროექტების და სხვა სამეცნიერო
