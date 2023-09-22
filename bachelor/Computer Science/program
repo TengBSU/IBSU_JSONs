@@ -186,8 +186,16 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
-    "description_En": null,
-    "description_Ge": null,
+    "description_En": "After the completion of the study course students gain following   competencies:
+•	programming in Java using OOP;
+•	ability to apply the OOP principles in solving problems using Java;
+•	using advanced concepts (concurrency, design patterns) in Java programming;
+•	creating a software using Java language.",
+    "description_Ge": "კურსის დასრულების შემდეგ სტუდენტს შეეძლება:
+•	ობიექტზე ორიენტირებული პროგრამირება ჯავაში;
+•	ჯავაში ობიიექტზე ორეინტირებული პარადიგმის გამოყენება 
+•	რთული მეთოდების გამოყენება (კონკურენცია, გადაწვეტის პატერნების გამოყენება) 
+ჯავას გამოყენებით პროგრამული უზრუნველყოფის შექმნა.",
     "semesterNumber": 3,
     "semesterSeason": "Autumn", 
     "prerequisites": [
