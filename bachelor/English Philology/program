@@ -6,8 +6,14 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
-    "description_En": null,
-    "description_Ge": null,
+    "description_En": "The course aims to teach students computer technologies and
+office programs.",
+    "description_Ge": "კურსის მიზანია სტუდენტებს შეასწავლოს
+კომპიუტერული ტექნოლოგიები და ოფისის
+პროგრამები,რათა შეასრულონ სხვადასხვა
+დავალებები, მონაცემთა
+ანალიზი,შედეგების წარდგენა
+პრეზენტაციის მეშვეობით",
     "semesterNumber": 2,
     "semesterSeason": "Spring", 
     "prerequisites": [
@@ -24,7 +30,7 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
-    "description_En": null,
+    "description_En": "Cultural anthropology is an introductory course to the science of culture. It focuses on culture and studies humanity from a broad perspective, searches cultural identity and its concomitant values and norms.  The course is designed to anchor the historical experience of social systems change in a theory and history of culture and to define the societal location of persons and social groups. The course introduces students to a variety of cultures, their types and stages of development; discusses about the interactions between the cultures, and gradually leads the student to understanding the general laws of their formation.",
     "description_Ge": null,
     "semesterNumber": 4,
     "semesterSeason": "Spring", 
@@ -114,7 +120,7 @@
     "ETC": 5,
     "hours": 3,
     "isCore": true,
-    "description_En": null,
+    "description_En": "Course objectives 	The course aims to develop essential listening, note taking, vocabulary and communication skills based on authentic material. It also prepares students for evaluating, organizing, contrasting and predicting information.",
     "description_Ge": null,
     "semesterNumber": 1,
     "semesterSeason": "Autumn", 
