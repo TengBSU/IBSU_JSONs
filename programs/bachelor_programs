@@ -204,7 +204,7 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
-    "isReady": true,
+    "isReady": false,
     "shouldDownloadFile": false,
     "fileLink": null,
     "georgianSectorCost": 4200
