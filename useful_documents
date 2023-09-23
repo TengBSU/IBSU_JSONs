@@ -1,0 +1,50 @@
+[
+{
+"id" : 1,
+"nameEn": "Academic Calendar",
+"nameGe": "აკადემიური კალენდარი",
+"link" : "https://ibsu.edu.ge/en/academic-calendar/"
+},
+{
+"id" : 2,
+"nameEn": "Bachelor Thesis Cover Page (Georgian Sector)",
+"nameGe": "საბაკალავრო ნაშრომის თავფურცელი (ქართული სექტორი)",
+"link" : "https://docs.google.com/document/d/0B5lOM5ieGkO9N0d6SS10b0JQLXc/edit?resourcekey=0-q9Fgcm4nuKCIdjZ9UWY5gg"
+},
+{
+"id" : 3,
+"nameEn": "Bachelor Thesis Cover Page (English Sector)",
+"nameGe": "საბაკალავრო ნაშრომის თავფურცელი (ინგლისური სექტორი)",
+"link" : "https://docs.google.com/document/d/0B5lOM5ieGkO9YnBsVjdZUVNRT3c/edit?resourcekey=0-aOjq6BDu_zhPyciKxAafDw"
+},
+{
+"id" : 4,
+"nameEn": "Instructions for Bachelor Thesis (English Sector)",
+"nameGe": "საბაკალავრო ნაშრომის ინსტრუქციები (ინგლისური სექტორი)",
+"link" : "https://drive.google.com/file/d/1-u2cj4Ms-cG3wGUJQR9sRdB1uDrY4drK/view"
+},
+{
+"id" : 5,
+"nameEn": "Instructions for Bachelor Thesis (Georgian Sector)",
+"nameGe": "საბაკალავრო ნაშრომის ინსტრუქციები (ქართული სექტორი)",
+"link" : "https://drive.google.com/file/d/1-sblbjAVp7aokpKUOPFkQlGNdVk1oeGO/view"
+},
+{
+"id" : 6,
+"nameEn": "Internship Instructions (English Sector)",
+"nameGe": "სტაჟირების ინსტრუქცია (ინგლისური სექტორი)",
+"link" : "https://drive.google.com/file/d/1-oSbnS0hf8qeVP6vO4nlHa8WQv05WUTf/view"
+},
+{
+"id" : 7,
+"nameEn": "Internship Instructions (Georgian Sector)",
+"nameGe": "სტაჟირების ინსტრუქცია (ქართული სექტორი)",
+"link" : "https://drive.google.com/file/d/1-qbC8aaUvl7WuLmwcjrEem4qrVyT_6rY/view"
+},
+{
+"id" : 8,
+"nameEn": "Request to participate in the exchange program",
+"nameGe": "გაცვლით პროგრამაში მონაწილეობის მოთხოვნა",
+"link" : "https://drive.google.com/file/d/0B5lOM5ieGkO9ODdqaUU4VDhfcEk/view?resourcekey=0-IV5Gr3DuVBg4Akexc-Wg2w"
+}
+]
