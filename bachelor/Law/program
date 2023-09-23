@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Information Technology",
+    "nameGe": "ინფორმაციული ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": "The course aims to teach students computer technologies and
+office programs.",
+    "description_Ge": "კურსის მიზანია სტუდენტებს შეასწავლოს
+კომპიუტერული ტექნოლოგიები და ოფისის
+პროგრამები,რათა შეასრულონ სხვადასხვა
+დავალებები, მონაცემთა
+ანალიზი,შედეგების წარდგენა
+პრეზენტაციის მეშვეობით",
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 2,
+    "nameEn": "",
+    "nameGe": "წერითი და ზეპირი კომუნიკაციების უნარები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 3,
+    "nameEn": "",
+    "nameGe": "ინგლისური ენის კომპონენტი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 4,
+    "nameEn": "",
+    "nameGe": "დარგობრივი ინგლისური ენა - სამართალი (B1)",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 5,
+    "nameEn": "",
+    "nameGe": "დარგობრივი ინგლისური ენა - სამართალი (B2)",
+    "ETC": 5,
+    "hours": 4,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 6,
+    "nameEn": "",
+    "nameGe": "შესავალი სამართალმცოდნეობაში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 7,
+    "nameEn": "",
+    "nameGe": "ქართული სამართლის ისტორია",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 8,
+    "nameEn": "",
+    "nameGe": "რომის სამართლის საფუძვლები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 9,
+    "nameEn": "",
+    "nameGe": "შესავალი საკონსტიტუციო სამართალში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 10,
+    "nameEn": "",
+    "nameGe": "საქართველოს საკონსტიტუციო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 11,
+    "nameEn": "",
+    "nameGe": "ადამიანის ძირითადი უფლებები და თავისუფლებები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 12,
+    "nameEn": "",
+    "nameGe": "ადმინისტრაციული სამართალი (საჯარო მმართველობა)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 13,
+    "nameEn": "",
+    "nameGe": "ადმინისტრაციული სამართალი (ადმინისტრაციული წარმოება)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 14,
+    "nameEn": "",
+    "nameGe": "საერთაშორისო საჯარო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 15,
+    "nameEn": "",
+    "nameGe": "ევროკავშირის სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 16,
+    "nameEn": "",
+    "nameGe": "საკონსტიტუციო მართლმსაჯულება",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 17,
+    "nameEn": "",
+    "nameGe": "ადმინისტრაციული საპროცესო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 18,
+    "nameEn": "",
+    "nameGe": "შესავალი სამოქალაქო სამართალში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 19,
+    "nameEn": "",
+    "nameGe": "სანივთო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 20,
+    "nameEn": "",
+    "nameGe": "ვალდებულებითი სამართლის ზოგადი ნაწილი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 21,
+    "nameEn": "",
+    "nameGe": "სახელშეკრულებო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 22,
+    "nameEn": "",
+    "nameGe": "კანონისმიერი ვალდებულებითი ურთიერთობები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 23,
+    "nameEn": "",
+    "nameGe": "სამოქალაქო საპროცესო სამართალი (ზოგადი ნაწილი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 24,
+    "nameEn": "",
+    "nameGe": "საოჯახო და მემკვიდრეობითი სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 25,
+    "nameEn": "",
+    "nameGe": "შრომის სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 26,
+    "nameEn": "",
+    "nameGe": "სამოქალაქო საპროცესო სამართალი (კერძო ნაწილი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 27,
+    "nameEn": "",
+    "nameGe": "საკორპორაციო სამართალი",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 28,
+    "nameEn": "",
+    "nameGe": "სისხლის სამართალი (ზოგადი ნაწილი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 29,
+    "nameEn": "",
+    "nameGe": "სისხლის სამართლის კერძო ნაწილი (ადამიანისა და კაცობრიობის წინააღმდეგ მიმართული დანაშაული)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 30,
+    "nameEn": "",
+    "nameGe": "სისხლის სამართლის კერძო ნაწილი (დანაშაულის სხვა სახეები)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 31,
+    "nameEn": "",
+    "nameGe": "სისხლის საპროცესო სამართალი (ზოგადი ნაწილი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 5,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 32,
+    "nameEn": "",
+    "nameGe": "სისხლის საპროცესო სამართალი (კერძო ნაწილი)",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 6,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 33,
+    "nameEn": "",
+    "nameGe": "იურიდიულ პროფესიათა ეთიკა",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 34,
+    "nameEn": "",
+    "nameGe": "პრაქტიკუმი საჯარო სამართალში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 35,
+    "nameEn": "",
+    "nameGe": "პრაქტიკუმი კერძო სამართალში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 36,
+    "nameEn": "",
+    "nameGe": "პრაქტიკუმი სისხლის სამართალში",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 7,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 37,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 38,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 39,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 40,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 41,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 42,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 43,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 44,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 45,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 46,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 47,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 48,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 48,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 49,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 50,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 51,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 52,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 53,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 54,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 55,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 56,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 57,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 58,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 59,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 60,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 61,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 62,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+    {
+    "id": 63,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  },
+      {
+    "id": 64,
+    "nameEn": "",
+    "nameGe": "",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }
+]
