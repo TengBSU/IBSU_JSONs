@@ -1,0 +1,58 @@
+[
+    {
+    "id": 1,
+    "programNameEn": "Business Administration",
+    "programNameGe": "ბიზნესის ადმინისტრირება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 4500,
+    "School": "BUSINESS",
+    "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/PhD-Business-Administration-Eng.pdf",
+    "georgianSectorCost": null
+  },
+      {
+    "id": 2,
+    "programNameEn": "Computer Science",
+    "programNameGe": "კომპიუტერული მეცნიერება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 3540,
+    "School": "COMPUTER SCIENCE AND ARCHITECTURE",
+    "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2022/11/PhD_in_CS_Eng-tt.pdf",
+    "georgianSectorCost": null
+  }
+    {
+    "id": 3,
+    "programNameEn": "American Studies",
+    "programNameGe": "ამერიკისმცოდნეობა",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 3540,
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
+    "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/PhD_%E1%83%90%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9B%E1%83%AA%E1%83%9D%E1%83%93%E1%83%9C%E1%83%94%E1%83%9D%E1%83%91%E1%83%90_GEO.pdf",
+    "georgianSectorCost": null
+  },
+      {
+    "id": 4,
+    "programNameEn": "Education Administration",
+    "programNameGe": "განათლების ადმინისტრირება",
+    "englishSectorAvailable": true,
+    "georgianSectorAvailable": false,
+    "englishSectorCost": 3540,
+    "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
+    "CostForNonGeorgians": 9900,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2018/03/PhD-AC-Eng.pdf",
+    "georgianSectorCost": null
+  }
+]
