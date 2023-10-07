@@ -1,0 +1,44 @@
+[
+{
+  "id": 1,
+  "name": "Rzeszów University of Technology",
+  "image": "https://study.gov.pl/sites/default/files/styles/wiz/public/foto_ucz_wiz/205/dsc_0297.jpg?itok=jduMi4uf",
+  "county": "Poland",
+  "deadline": "28.02.2023",
+  "Details" : "Student Number and Programs: 1 Student in Architecture Program,1 student in Computer Science Program
+Required documents for host university:
+
+a scan of passport or ID card
+
+passport-size photos (.jpg file)
+Health Insurance (for the whole stay)"
+},
+{
+  "id": 2,
+  "name": "Akademia Mazowiecka w Płocku",
+  "image": "https://mazowiecka.edu.pl/wp-content/uploads/2018/11/slider-uczelnia.jpg",
+  "county": "Poland",
+  "deadline": "10.02.2023",
+  "Details" : "Student number- 2 students 
+
+Programs: (BA):American Studies.
+
+Duration of Study: 5 Months.
+Required documents for host university:
+
+a scan of passport or ID card
+
+passport-size photos (.jpg file)
+Health Insurance (for the whole stay)"
+},
+{
+  "id": 3,
+  "name": "Polytechnic Institute of Bragança",
+  "image": "https://d1bvpoagx8hqbg.cloudfront.net/originals/erasmus-student-ipb-polytechnic-institute-braganc-portugal-434316d7cccdb6fea774b1b8ef0c2ec8.jpg",
+  "county": "Portugal",
+  "deadline": "10.02.2023",
+  "Details" : "Program- Informatics, Management
+
+Student number- 1 students."
+}
+]
