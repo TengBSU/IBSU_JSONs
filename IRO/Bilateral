@@ -13,5 +13,95 @@ Student quota: 5.
 Semester: Spring Semester.
 
 "
+},
+{
+  "id": 2,
+  "name": "Newton University",
+  "image": "https://smapse.com/storage/2019/12/o1.jpg",
+  "county": " Czech Republic",
+  "deadline": "30 November 2023",
+  "Details" : "Programs: Business and Administration – Global Business and Management.
+
+Student quota: 2.
+
+Semester: Spring Semester.
+
+"
+},
+{
+  "id": 3,
+  "name": "University of Deusto",
+  "image": "https://www.unic.eu/storage/app/media/Universities/deusto/Deusto.png",
+  "county": "Spain",
+  "deadline": "10 October 2023",
+  "Details" : "Student quota: 2.
+
+Semester: Spring Semester."
+},
+{
+  "id": 4,
+  "name": "Masovian State University",
+  "image": "https://mazowiecka.edu.pl/wp-content/uploads/2018/11/slider-uczelnia-1024x447.jpg",
+  "county": "Poland",
+  "deadline": "1 December 2022",
+  "Details" : "Programs: Philology, IT (engineering), New media, Social work.
+
+Semester: Spring Semester (February-June).
+"
+},
+{
+  "id": 5,
+  "name": "Vistula University",
+  "image": "https://d1bvpoagx8hqbg.cloudfront.net/originals/erasmus-student-ipb-polytechnic-institute-braganc-portugal-434316d7cccdb6fea774b1b8ef0c2ec8.jpg",
+  "county": "Poland",
+  "deadline": "October 31st",
+  "Details" : "Programs:Economics,Computer Science/Engineering,International Relations,Tourism,Philology.
+
+Bilateral: Only Tuition Fee Funded.
+
+Students Quota: 2."
+},
+{
+  "id": 6,
+  "name": "Cracow University of Economics",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Krak%C3%B3w_University_of_Economics%2C_main_building%2C_1887_design._W%C5%82adys%C5%82aw_Ekielski_and_Tadeusz_Stryje%C5%84ski%2C_27_Rakowicka_street%2C_Krak%C3%B3w%2C_Poland.jpg/800px-Krak%C3%B3w_University_of_Economics%2C_main_building%2C_1887_design._W%C5%82adys%C5%82aw_Ekielski_and_Tadeusz_Stryje%C5%84ski%2C_27_Rakowicka_street%2C_Krak%C3%B3w%2C_Poland.jpg",
+  "county": "Poland",
+  "deadline": "10th November ",
+  "Details" : "Programs: International Marketing Management, International Business and Economics, Management, Finance, Accounting
+
+Students quota: 2"
+},
+{
+  "id": 7,
+  "name": "Kozminski University",
+  "image": "https://www.cambridgeenglish.org/Images/kozminsky-large.jpg",
+  "county": "Poland",
+  "deadline": "20 November 2023",
+  "Details" : "Programs: Management, Marketing, Economics, Law.
+
+Student quota: 2.
+
+Semester: Spring Semester.
+"
+},
+{
+  "id": 8,
+  "name": "Lodz University",
+  "image": "https://smapse.com/storage/2021/06/6-8.jpg",
+  "county": "Poland",
+  "deadline": "10 October 2023",
+  "Details" : "Faculties: All.
+Semester: Spring
+"
+},
+{
+  "id": 9,
+  "name": "HTW Dresden",
+  "image": "https://www.htw-dresden.de/fileadmin/_processed_/8/a/csm_Z-Gebaeude_03afa0e101.jpg",
+  "county": "Germany",
+  "deadline": "15 October 2023",
+  "Details" : "Semester: Spring
+
+Programs: Informatics and Business Administration"
 }
 ]
