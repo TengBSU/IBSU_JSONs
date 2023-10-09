@@ -204,9 +204,9 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/PUBLIC-ADMINISTRATION-AND-STATE-GOVERNANCE-geo.pdf",
     "georgianSectorCost": 4200
   }
 ]
