@@ -1,0 +1,548 @@
+[
+ {
+    "id": 1,
+    "nameEn": "Logic for Computer Science and Artificial Intelligence ",
+    "nameGe": "ლოგიკა კომპიუტერული მეცნიერებებისთვის და ხელოვნური ინტელექტისთვის",
+    "ETC": 7,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 2,
+    "nameEn": "Principles of Programming Languages",
+    "nameGe": "პროგრამირების ენების პრინციპები",
+    "ETC": 7,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 3,
+    "nameEn": "Computer Networks Design",
+    "nameGe": "კომპიუტერული ქსელების დაპროექტება",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 4,
+    "nameEn": " Models of Computation",
+    "nameGe": "გამოთვლითი მოდელები",
+    "ETC": 8,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Logic for Computer Science and Artificial Intelligence"
+    ],
+    "prerequisitesGe": [
+      "ლოგიკა კომპიუტერული მეცნიერებებისთვის და ხელოვნური ინტელექტისთვის "
+    ]
+  }, 
+ {
+    "id": 5,
+    "nameEn": "Advanced Algorithms",
+    "nameGe": "ალგორითმების გაძლიერებული კურსი",
+    "ETC": 8,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 6,
+    "nameEn": "Information Security",
+    "nameGe": "ინფორმაციული უსაფრთხოება",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 7,
+    "nameEn": "Seminar I",
+    "nameGe": "სამაგისტრო სემინარი 1",
+    "ETC": 3,
+    "hours": 2,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 8,
+    "nameEn": "Data Mining and Analysis",
+    "nameGe": "მონაცემთა მოპოვება და ანალიზი",
+    "ETC": 8,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 9,
+    "nameEn": "IoT Design",
+    "nameGe": "IoT-ის დაპროექტება",
+    "ETC": 7,
+    "hours": 3,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 10,
+    "nameEn": "Human-Machine Interaction",
+    "nameGe": "ადამიანურმანქანური ინტერაქცია",
+    "ETC": 6,
+    "hours": 2,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 11,
+    "nameEn": "Seminar II",
+    "nameGe": "სამაგისტრო სემინარი 2",
+    "ETC": 3,
+    "hours": 2,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "MSc Seminar I"
+    ],
+    "prerequisitesGe": [
+      "სამაგისტრო სემინარი I"
+    ]
+  }, 
+ {
+    "id": 12,
+    "nameEn": "MSc Thesis",
+    "nameGe": "სამაგისტრო ნაშრომი",
+    "ETC": 30,
+    "hours": null,
+    "isCore": true,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 4,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Must be completed all Compulsory Courses"
+    ],
+    "prerequisitesGe": [
+      "აუცილებელია ყველა სავალდებულო კურსის გავლა"
+    ]
+  }, 
+ {
+    "id": 13,
+    "nameEn": "Computer algebra",
+    "nameGe": "კომპიუტერული ალგებრა",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 14,
+    "nameEn": "Approximation Theory",
+    "nameGe": "აპროქსიმაციის თეორია",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 15,
+    "nameEn": "Numerical Analysis",
+    "nameGe": "რიცხვითი ანალიზი",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 16,
+    "nameEn": "Modelling and Simulation",
+    "nameGe": "მოდელირება და სიმულაცია",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 17,
+    "nameEn": "Distributed Application Development",
+    "nameGe": "დისტრიბუციული აპლიკაციების აგება და განვითარება",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 18,
+    "nameEn": "Artificial Intelligence Applications",
+    "nameGe": "ხელოვნური ინტელექტის აპლიკაციები",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 19,
+    "nameEn": "Semantic Web Technologies",
+    "nameGe": "სემანტიკური ვებ ტექნოლოგიები",
+    "ETC": 5,
+    "hours": 3,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 20,
+    "nameEn": "Knowledge Representation and Reasoning",
+    "nameGe": "ცოდნის წარმოდგენა და მსჯელობა",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Logic for Computer Science and Artificial Intelligence"
+    ],
+    "prerequisitesGe": [
+      "ლოგიკა კომპიუტერული მეცნიერებებისთვის და ხელოვნური ინტელექტისთვის"
+    ]
+  }, 
+ {
+    "id": 21,
+    "nameEn": "Software Verification",
+    "nameGe": "პროგრამების ვერიფიკაცია",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Logic for Computer Science and Artificial Intelligence",
+      "Principles of Programming Languages"
+    ],
+    "prerequisitesGe": [
+      "ლოგიკა კომპიუტერული მეცნიერებებისთვის და ხელოვნური ინტელექტისთვის",
+      "პროგრამირების ენების პრინციპები"
+    ]
+  }, 
+ {
+    "id": 22,
+    "nameEn": "Expert Systems",
+    "nameGe": "ექსპერტული სისტემები",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      "Logic for Computer Science and Artificial Intelligence"
+    ],
+    "prerequisitesGe": [
+      "ლოგიკა კომპიუტერული მეცნიერებებისთვის და ხელოვნური ინტელექტისთვის"
+    ]
+  }, 
+ {
+    "id": 23,
+    "nameEn": "Bayesian and probabilistic programming",
+    "nameGe": "ბაიესური და ალბათური პროგრამირება",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 2,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+      
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+
+ {
+    "id": 24,
+    "nameEn": "Digital Signal Processing",
+    "nameGe": "ციფრული სიგნალების დამუშავება",
+    "ETC": 5,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Spring", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 25,
+    "nameEn": "Graph Algorithms and Computational Geometry",
+    "nameGe": "გრაფების ალგორითმები და გამოთვლითი გეომეტრია",
+    "ETC": 6,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Advanced Algorithms",
+      "Models of Computation"
+    ],
+    "prerequisitesGe": [
+      "ალგორითმების გაძლიერებული კურსი",
+      "გამოთვლითი მოდელები"
+    ]
+  }, 
+ {
+    "id": 26,
+    "nameEn": "Neural networks",
+    "nameGe": "ნეირონული ქსელები",
+    "ETC": 6,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 27,
+    "nameEn": "Network Modelling",
+    "nameGe": "ქსელის მოდელირება",
+    "ETC": 6,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Models of Computation"
+    ],
+    "prerequisitesGe": [
+      "გამოთვლითი მოდელები"
+    ]
+  }, 
+ {
+    "id": 28,
+    "nameEn": "Operations Research",
+    "nameGe": "ოპერაციათა კვლევა",
+    "ETC": 6,
+    "hours": 2,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "Models of Computation"
+    ],
+    "prerequisitesGe": [
+      "გამოთვლითი მოდელები"
+    ]
+  }, 
+ {
+    "id": 29,
+    "nameEn": "Deep Reinforcement Learning",
+    "nameGe": "ღრმა განმამტკიცებელი სწავლება",
+    "ETC": 6,
+    "hours": null,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 3,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+    
+    ],
+    "prerequisitesGe": [
+      
+    ]
+  }, 
+ {
+    "id": 30,
+    "nameEn": "Internship",
+    "nameGe": "სტაჟირება ",
+    "ETC": 6,
+    "hours": 3,
+    "isCore": false,
+    "description_En": null,
+    "description_Ge": null,
+    "semesterNumber": 1,
+    "semesterSeason": "Autumn", 
+    "prerequisites": [
+      "All mandatory courses given during first year"
+    ],
+    "prerequisitesGe": [
+      "სწავლების პირველი წლის სავალდებულო საგნები"
+    ]
+  }
+
+]
