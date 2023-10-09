@@ -8,9 +8,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/MA-Management-Eng.pdf",
     "georgianSectorCost": null
   },
     {
@@ -22,9 +22,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/MA-Marketing-Eng-1.pdf",
     "georgianSectorCost": null
   },
     {
@@ -36,9 +36,9 @@
     "englishSectorCost": 4500,
     "School": "BUSINESS",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/MA-Finance-Eng.pdf",
     "georgianSectorCost": 4500
   },
     {
@@ -50,9 +50,9 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2018/03/06.02.2023-MA-program-in-USFA-NEW-Form.docx-ENG.docx",
     "georgianSectorCost": 4500
   },
     {
@@ -64,9 +64,9 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2019/11/MA-IR-_ENG.pdf",
     "georgianSectorCost": null
   },
       {
@@ -78,23 +78,23 @@
     "englishSectorCost": 4500,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2018/03/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%90-%E1%83%95%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%E1%83%97%E1%83%95%E1%83%98%E1%83%A1-%E1%83%92%E1%83%90%E1%83%9C%E1%83%90%E1%83%97%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%90%E1%83%93%E1%83%9B%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90-GEO-%E1%83%98%E1%83%9C%E1%83%92%E1%83%9A%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%94%E1%83%9C%E1%83%9D%E1%83%95%E1%83%90%E1%83%9C%E1%83%98-1.docx",
     "georgianSectorCost": 4500
   },
       {
     "id": 7,
-    "programNameEn": "International Relations",
-    "programNameGe": "საერთაშორისო ურთიერთობები",
+    "programNameEn": "Digital Media and Ccommunication",
+    "programNameGe": "ციფრული მედია და კომუნიკაცია",
     "englishSectorAvailable": false,
     "georgianSectorAvailable": true,
     "englishSectorCost": null,
     "School": "EDUCATION, HUMANITIES AND SOCIAL SCIENCES",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2021/08/updated-05.02.23_MA-Porgram-Digital-Media-_-Communication_2-IBSU_R3I02F02b.G_Educational_Program.docx",
     "georgianSectorCost": 4500
   },
       {
@@ -106,9 +106,9 @@
     "englishSectorCost": 4500,
     "School": "COMPUTER SCIENCE AND ARCHITECTURE",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2022/11/MA_CS_geo.pdf",
     "georgianSectorCost": null
   },
       {
@@ -134,9 +134,9 @@
     "englishSectorCost": null,
     "School": "LAW AND STATE GOVERNANCE",
     "CostForNonGeorgians": 9900,
-    "isReady": false,
-    "shouldDownloadFile": false,
-    "fileLink": null,
+    "isReady": true,
+    "shouldDownloadFile": true,
+    "fileLink": "https://ibsu.edu.ge/wp-content/uploads/2022/11/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%90-%E1%83%A8%E1%83%94%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%97%E1%83%98-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%AA%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%A1%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%97%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%A1%E1%83%90%E1%83%9B%E1%83%90%E1%83%92%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%9D.docx",
     "georgianSectorCost": 4500
   }
 ]
